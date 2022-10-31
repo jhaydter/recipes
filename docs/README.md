@@ -11,7 +11,7 @@ My collection of recipes made with [cooklang][1].
 
 ## :book:&nbsp; Documentation
 
-​Documentation can be found [​here​](http://cook.haydt.io/recipes).
+​Documentation can be found [​here​](http://cook.haydt.io/).
 
 ---
 
