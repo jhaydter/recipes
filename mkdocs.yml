@@ -1,13 +1,13 @@
 ---
 site_name: Recipes
 site_description: A collection of my recipes.
-site_author: Nicholas Wilde
-site_url: https://nicholaswilde.io/recipes
-copyright: Copyright &copy; 2022 Nicholas Wilde
+site_author: Justin Haydt
+site_url: https://cook.haydt.io
+copyright: Copyright &copy; 2022 Justin Haydt
 dev_addr: '0.0.0.0:8000'
 
-repo_url: https://github.com/nicholaswilde/recipes
-repo_name: nicholaswilde/recipes
+repo_url: https://github.com/jhaydter/recipes
+repo_name: jhaydter/recipes
 edit_uri: "edit/main/docs/"
 
 theme:
@@ -280,11 +280,6 @@ nav:
       - Post-Baking Glazes:
           - Lemon Glaze: ingredients/post-baking-glazes/lemon-glaze.md
           - Milk Glaze: ingredients/post-baking-glazes/milk-glaze.md
-      - Tofu:
-          - Preparation: ingredients/tofu/preparation.md
-          - Air Fryer Tofu: ingredients/tofu/air-fryer-tofu.md
-          - Crispy Baked Tofu Nuggets: ingredients/tofu/crispy-baked-tofu-nuggets.md
-          - Pan-Fried Tofu: ingredients/tofu/pan-fried-tofu.md
       - 3-Ingredient Garlic Butter: ingredients/3-ingredient-garlic-butter.md
       - Aquafaba: ingredients/aquafaba.md
       - Blanched Almonds: ingredients/blanched-almonds.md
@@ -609,21 +604,15 @@ nav:
 extra:
   social:
     - icon: fontawesome/solid/house
-      link: https://nicholaswilde.io/
+      link: https://haydt.io/
     - icon: fontawesome/brands/github
-      link: https://github.com/nicholaswilde
+      link: https://github.com/jhaydter
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/nicholascwilde
+      link: https://twitter.com/No_Haydt
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/wildewoodworking/
+      link: https://www.instagram.com/justinhaydt/
     - icon: fontawesome/brands/linkedin-in
-      link: https://www.linkedin.com/in/nicholaswilde
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/nicholas.wilde/
-    - icon: fontawesome/brands/keybase
-      link: https://keybase.io/nicholaswilde
-    - icon: fontawesome/solid/key
-      link: https://github.com/nicholaswilde.gpg
+      link: https://www.linkedin.com/in/justin-haydt
 
 plugins:
   - tags:
@@ -656,7 +645,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: nicholaswilde
+      user: jhaydter
       repo: recipes
 
 extra_javascript:
