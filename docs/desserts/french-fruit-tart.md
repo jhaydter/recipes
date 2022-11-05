@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - french
+  - dessert
+  - tart
 ---
-# French Fruit Tart
+# :strawberry: French Fruit Tart
 
 ![French Fruit Tart](../assets/images/french-fruit-tart.jpg)
 
@@ -11,15 +15,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 cup Bisquick
-- 0.25 cup sugar
-- 0.25 cup butter
-- 8 oz cream cheese
-- 0.33 cup sugar
-- 1 tsp vanilla
-- 1 cup whipping cream
-- some berries
-- 0.5 cup apple jam
+- :ear_of_rice: 2 cup [Bisquick][1]
+- :candy: 0.25 cup sugar
+- :butter: 0.25 cup butter
+- :cheese_wedge: 8 oz cream cheese
+- :candy: 0.33 cup sugar
+- :icecream: 1 tsp vanilla
+- :glass_of_milk: 1 cup whipping cream
+- :stawberry: some berries
+- :apple: 0.5 cup apple jam
 
 ## :cooking: Cookware
 
@@ -29,7 +33,7 @@ comments: true
 
 ### Step 1
 
-Heat oven to 375°F. Mix Bisquick and 1/4 cup sugar. Cut in butter and press into tart pan.
+Heat oven to 375°F. Mix [Bisquick][1] and 1/4 cup sugar. Cut in butter and press into tart pan.
 
 ### Step 2
 
@@ -50,3 +54,5 @@ Heat 1/2 cup apple jam or apricot jam and brush over berries.
 ### Step 6
 
 Refrigerate at least 2 hours.
+
+[1]: <../ingredients/bisquick.md>

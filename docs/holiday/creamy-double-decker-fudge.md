@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - holiday
+  - bar
+  - dessert
 ---
 # :chocolate_bar: Creamy Double Decker Fudge
 

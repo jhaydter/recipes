@@ -58,6 +58,7 @@ nav:
       - Cranberry Orange Bread: breads/cranberry-orange-bread.md
       - Croissants: breads/croissants.md
       - Delicious Zucchini Bread: breads/delicious-zucchini-bread.md
+      - Garlic Bread: breads/garlic-bread.md
       - Honey Beer Bread: breads/honey-beer-bread.md
       - Honey Cornbread: breads/honey-cornbread.md
       - Lemon Blueberry Bread: breads/lemon-blueberry-bread.md
@@ -75,6 +76,7 @@ nav:
       - Cinnamon-Sugared Buttermilk Doughnuts: breakfast/cinnamon-sugared-buttermilk-doughnuts.md
       - Cinnamon Rolls: breakfast/cinnamon-rolls.md
       - Cinnamon Toast Crunch Baked Oats Recipe by Tasty: breakfast/cinnamon-toast-crunch-baked-oats-recipe-by-tasty.md
+      - Classic Buttermilk Waffles: breakfast/classic-buttermilk-waffles.md
       - Conchas (Mexican Pan Dulce): breakfast/conchas-(mexican-pan-dulce).md
       - Crunch French Toast: breakfast/crunch-french-toast.md
       - Decadent Chocolate Overnight Oats: breakfast/decadent-chocolate-overnight-oats.md
@@ -91,6 +93,7 @@ nav:
       - Pumpkin Muffins: breakfast/pumpkin-muffins.md
       - Queen Elizabeth II's Drop Scones: breakfast/queen-elizabeth-ii's-drop-scones.md
       - Sweet Potato Pancakes: breakfast/sweet-potato-pancakes.md
+      - Toasted-Coconut Granola: breakfast/toasted-coconut-granola.md
       - The Food Lab Light and Fluffy Scrambled Eggs: breakfast/the-food-lab-light-and-fluffy-scrambled-eggs.md
       - Vegan Bacon: breakfast/vegan-bacon.md
       - Vegan Banana Pancakes: breakfast/vegan-banana-pancakes.md
@@ -128,11 +131,13 @@ nav:
       - Oatmeal Raisin: cookies-and-bars/oatmeal-raisin.md
       - Oreos: cookies-and-bars/oreos.md
       - Peanut Butter Crisscrosses: cookies-and-bars/peanut-butter-crisscrosses.md
+      - Salted Peanut Butter: cookies-and-bars/salted-peanut-butter.md
       - Peanut Butter Sandwich Cookies: cookies-and-bars/peanut-butter-sandwich-cookies.md
       - Preposterously Peanut Butter Cup Cookies: cookies-and-bars/preposterously-peanut-butter-cup-cookies.md
       - Pumpkin Cheesecake Cookies: cookies-and-bars/pumpkin-cheesecake-cookies.md
       - Samoas: cookies-and-bars/samoas.md
       - Simple Sugar Cookies: cookies-and-bars/simple-sugar-cookies.md
+      - Snickerdoodles: cookies-and-bars/snickerdoodles.md
       - Tante Myrn's Sugar Cookies: cookies-and-bars/tante-myrn's-sugar-cookies.md
       - The New York Times Chocolate Chip Cookies: cookies-and-bars/the-new-york-times-chocolate-chip-cookies.md
       - Twix: cookies-and-bars/twix.md
@@ -162,6 +167,7 @@ nav:
       - Classic Fudge: desserts/classic-fudge.md
       - Corn & Hatch Chile Cupcakes with Honey Buttercream: >-
           desserts/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md
+      - Cream Cheese Pound Cake: desserts/cream-cheese-pound-cake.md
       - Crème Brûlée: desserts/crème-brûlée.md
       - Crème Pâtissière: desserts/crème-pâtissière.md
       - Crêpes Suzette: desserts/crêpes-suzette.md
@@ -169,6 +175,8 @@ nav:
       - Disney's Frozen Pineapple Treat: desserts/disney's-frozen-pineapple-treat.md
       - English Toffee: desserts/english-toffee.md
       - French Fruit Tart: desserts/french-fruit-tart.md
+      - Ina Garten's Apple Crisp: desserts/ina-garten's-apple-crisp.md
+      - Ina Garten's Coconut Cake: desserts/ina-garten's-coconut-cake.md
       - Lemon Bars: desserts/lemon-bars.md
       - Lemon Pie: desserts/lemon-pie.md
       - Mamie Eisenhower's Fudge: desserts/mamie-eisenhower's-fudge.md
@@ -183,6 +191,7 @@ nav:
       - Pear Tarte Tatin: desserts/pear-tarte-tatin.md
       - Pineapple Upside Down Cake: desserts/pineapple-upside-down-cake.md
       - Pumpkin Cheesecake: desserts/pumpkin-cheesecake.md
+      - Reine be Saba (Queen of Sheba): desserts/reine-be-saba-(queen-of-sheba).md
       - Shoofly Pie: desserts/shoofly-pie.md
       - Slow Cooker Apple Crisp: desserts/slow-cooker-apple-crisp.md
       - Sticky Toffee Pudding: desserts/sticky-toffee-pudding.md
@@ -279,12 +288,16 @@ nav:
           - Lemon Glaze: ingredients/post-baking-glazes/lemon-glaze.md
           - Milk Glaze: ingredients/post-baking-glazes/milk-glaze.md
       - 3-Ingredient Garlic Butter: ingredients/3-ingredient-garlic-butter.md
+      - Almond Flour: ingredients/almond-flour.md
       - Aquafaba: ingredients/aquafaba.md
+      - Bisquick: ingredients/bisquick.md
       - Blanched Almonds: ingredients/blanched-almonds.md
+      - Blueberry Syrup for Pancakes: ingredients/blueberry-syrup-for-pancakes.md
       - Bouquet Garni: ingredients/bouquet-garni.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Buttermilk: ingredients/buttermilk.md
       - Candied Orange Peel: ingredients/candied-orange-peel.md
+      - Celery Salt: ingredients/celery-salt.md
       - Cinnamon Sugar: ingredients/cinnamon-sugar.md
       - Clarified Butter: ingredients/clarified-butter.md
       - Crème Fraîche: ingredients/crème-fraîche.md
@@ -324,6 +337,7 @@ nav:
       - Sweetened Condensed Milk: ingredients/sweetened-condensed-milk.md
       - Sweetened Whipped Cream: ingredients/sweetened-whipped-cream.md
       - Taco Seasoning: ingredients/taco-seasoning.md
+      - Tomato Paste: ingredients/tomato-paste.md
       - Vanilla Sugar: ingredients/vanilla-sugar.md
       - Vegan Marshmallows: ingredients/vegan-marshmallows.md
       - Vegan Parmesan: ingredients/vegan-parmesan.md
@@ -336,6 +350,7 @@ nav:
       - Easiest Ever Macaroni & Cheese: italian/easiest-ever-macaroni-&-cheese.md
       - Eggplant Parm Meatballs: italian/eggplant-parm-meatballs.md
       - Eggplant Parmesan Pasta: italian/eggplant-parmesan-pasta.md
+      - Eggplant Parmigiana: italian/eggplant-parmigiana.md
       - Ginger Sesame Vegan Meatballs: italian/ginger-sesame-vegan-meatballs.md
       - Healthy Pasta with Pesto and Broccoli: italian/healthy-pasta-with-pesto-and-broccoli.md
       - Light and Tender Potato Gnocchi with Sage Butter Sauce: >-
@@ -357,6 +372,7 @@ nav:
       - Trapani-Style Pasta: italian/trapani-style-pasta.md
       - White Pizza: italian/white-pizza.md
   - Lunches:
+      - Applied Grilled Cheese: lunches/applied-grilled-cheese.md
       - Bourbon Grilled Cheese: lunches/bourbon-grilled-cheese.md
       - Chickpea Sunflower Sandwich: lunches/chickpea-sunflower-sandwich.md
       - Cucumber Sandwich: lunches/cucumber-sandwich.md
@@ -413,6 +429,7 @@ nav:
   - Pressure Cooker:
       - Black Beans: pressurecooker/black-beans.md
       - Chickpeas: pressurecooker/chickpeas.md
+      - Refried Black Beans: pressurecooker/refried-black-beans.md
   - Sauces & Dressings:
       - 5 Mother Sauces:
           - Béchamel: sauces-and-dressings/5-mother-sauces/béchamel.md
@@ -426,6 +443,7 @@ nav:
       - Aji Verde: sauces-and-dressings/aji-verde.md
       - Alfredo Sauce: sauces-and-dressings/alfredo-sauce.md
       - Asian Sweet and Sour Sauce: sauces-and-dressings/asian-sweet-and-sour-sauce.md
+      - Benedictine Sandwich Spread: sauces-and-dressings/benedictine-sandwich-spread.md
       - Blue Cheese Herb Spread: sauces-and-dressings/blue-cheese-herb-spread.md
       - Buffalo Sauce: sauces-and-dressings/buffalo-sauce.md
       - Carrot-Tamarind Chutney: sauces-and-dressings/carrot-tamarind-chutney.md
@@ -483,6 +501,7 @@ nav:
       - America's Test Kitchen Best Baked Potatoes: sides/america's-test-kitchen-best-baked-potatoes.md
       - America's Test Kitchen Best Baked Sweet Potatoes: sides/america's-test-kitchen-best-baked-sweet-potatoes.md
       - Asparagus Purée: sides/asparagus-purée.md
+      - Beach Day Chickpea Salad: sides/beach-day-chickpea-salad.md
       - Braised Asparagus with Lemon and Chives: sides/braised-asparagus-with-lemon-and-chives.md
       - Brazilian Rice: sides/brazilian-rice.md
       - Brown Sugar and Spice Roasted Carrots: sides/brown-sugar-and-spice-roasted-carrots.md
@@ -509,6 +528,7 @@ nav:
       - Grilled Sweet Potatoes with Chimichurri: sides/grilled-sweet-potatoes-with-chimichurri.md
       - Hasselback Roasted Zucchini: sides/hasselback-roasted-zucchini.md
       - Honey Glazed Carrots & Parsnips: sides/honey-glazed-carrots-and-parsnips.md
+      - Ina Garten's Potato Salad: sides/ina-garten's-potato-salad.md
       - Jalapeño Corn Pudding: sides/jalapeño-corn-pudding.md
       - Jojo's Biscuits: sides/jojo's-biscuits.md
       - Josh Elkin's Mushroom Toast: sides/josh-elkin's-mushroom-toast.md
@@ -554,6 +574,7 @@ nav:
       - Spinach Tortellini Soup by Joanna Gaines: soups-and-stews/spinach-tortellini-soup-by-joanna-gaines.md
       - Split Pea Soup: soups-and-stews/split-pea-soup.md
       - Tante Myrn's Split Pea Soup: soups-and-stews/tante-myrn's-split-pea-soup.md
+      - Vichyssoise (Leek & Potato Soup): soups-and-stews/vichyssoise-(leek-and-potato-soup).md
   - Reference:
       - Equivalents & Substitutes: reference/equivalents-and-substitutes.md
       - Measuring: reference/measuring.md

@@ -26,6 +26,20 @@ own personal reference.
     changing the amount of chili powder to make the dish less spicy or [aging cookie dough][4] where egg white
     are the main liquid component in order to control spread and concentrate flavor.
 
+## :key:&nbsp; Assumptions
+
+The following may be assumed throughout the site unless otherwise specified
+
+- `Butter` refers to `unsalted butter`.
+- `salt` refers to `kosher salt`.
+- `pepper` refers to `black pepper`.
+- `flour` refers to `all-purpose flour`.
+- `vanilla` refers to `vanilla extract`.
+- `heavy cream` is the same as `whipping cream`.
+- `stock` is the same as `broth`.
+- `caster`, `white`, and `sugar` is the same as `granulated sugar`.
+- `powdered sugar` is the same as `confectioners' sugar`.
+
 ## :gear:&nbsp; Development
 
 Development of this site is documented [here][3].
