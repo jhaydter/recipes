@@ -140,6 +140,7 @@ nav:
       - Honey Cookies (Finikia): cookies-and-bars/honey-cookies-(finikia).md
       - King Arthur's Snickerdoodles: cookies-and-bars/king-arthur's-snickerdoodles.md
       - Ladyfingers: cookies-and-bars/ladyfingers.md
+      - Lemon Bars: cookies-and-bars/lemon-bars.md
       - Millionaire's Shortbread: cookies-and-bars/millionaire's-shortbread.md
       - Oatmeal Chocolate Chip Cookies: cookies-and-bars/oatmeal-chocolate-chip-cookies.md
       - Oatmeal Cream Pies: cookies-and-bars/oatmeal-cream-pies.md
@@ -174,12 +175,17 @@ nav:
               desserts/cake/no-bake-banana-and-peanut-butter-caramel-icebox-cake.md
           - Olive Oil Cake: desserts/cake/olive-oil-cake.md
           - Pineapple Upside Down Cake: desserts/cake/pineapple-upside-down-cake.md
+          - Reine be Saba (Queen of Sheba): desserts/cake/reine-be-saba-(queen-of-sheba).md
           - Southern Velvet Cake: desserts/cake/southern-velvet-cake.md
           - The Perfect Chocolate Cake: desserts/cake/the-perfect-chocolate-cake.md
           - Vegan Carrot Cake: desserts/cake/vegan-carrot-cake.md
+          - Vegan Strawberry Cake: desserts/cake/vegan-strawberry-cake.md
           - Victoria Sandwich Cake: desserts/cake/victoria-sandwich-cake.md
       - Cupcakes:
           - Chocolate Cupcakes: desserts/cupcakes/chocolate-cupcakes.md
+          - Corn & Hatch Chile Cupcakes with Honey Buttercream: >-
+                desserts/cupcakes/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md
+          - Vanilla Cupcakes: desserts/cupcakes/vanilla-cupcakes.md
       - 4 Ingredient Chocolate Mousse: desserts/4-ingredient-chocolate-mousse.md
       - Banana Pudding: desserts/banana-pudding.md
       - Banoffee Pie: desserts/banoffee-pie.md
@@ -197,8 +203,6 @@ nav:
             desserts/chocolate-whoopie-pies-with-vanilla-buttercream-filling.md
       - Classic Crème Brûlée: desserts/classic-crème-brûlée.md
       - Classic Fudge: desserts/classic-fudge.md
-      - Corn & Hatch Chile Cupcakes with Honey Buttercream: >-
-          desserts/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md
       - Cranberry Curd Tart with Almond Crust: desserts/cranberry-curd-tart-with-almond-crust.md
       - Crème Brûlée: desserts/crème-brûlée.md
       - Crème Pâtissière: desserts/crème-pâtissière.md
@@ -208,7 +212,6 @@ nav:
       - English Toffee: desserts/english-toffee.md
       - French Fruit Tart: desserts/french-fruit-tart.md
       - Ina Garten's Apple Crisp: desserts/ina-garten's-apple-crisp.md
-      - Lemon Bars: desserts/lemon-bars.md
       - Lemon Pie: desserts/lemon-pie.md
       - Mamie Eisenhower's Fudge: desserts/mamie-eisenhower's-fudge.md
       - Melomakarona: desserts/melomakarona.md
@@ -218,7 +221,6 @@ nav:
       - Peanut Butter Cups: desserts/peanut-butter-cups.md
       - Pear Tarte Tatin: desserts/pear-tarte-tatin.md
       - Pumpkin Cheesecake: desserts/pumpkin-cheesecake.md
-      - Reine be Saba (Queen of Sheba): desserts/reine-be-saba-(queen-of-sheba).md
       - Rice Krispies: desserts/rice-krispies.md
       - Shoofly Pie: desserts/shoofly-pie.md
       - Slow Cooker Apple Crisp: desserts/slow-cooker-apple-crisp.md
@@ -233,10 +235,8 @@ nav:
       - Tollhouse Pie: desserts/tollhouse-pie.md
       - Trader Joe's Key Lime Pie with Strawberry Whipped Cream: >-
           desserts/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md
-      - Vanilla Cupcakes: desserts/vanilla-cupcakes.md
       - Vanilla Pudding: desserts/vanilla-pudding.md
       - Vegan Chocolate Pudding with Cinnamon & Chile: desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md
-      - Vegan Strawberry Cake: desserts/vegan-strawberry-cake.md
   - Dutch:
       - Kroket: dutch/kroket.md
   - Holiday:
@@ -519,6 +519,8 @@ nav:
       - New York Times' Classic Marinara Sauce: sauces-and-dressings/new-york-times'-classic-marinara-sauce.md
       - Orange Juice-Lime Salad Dressing: sauces-and-dressings/orange-juice-lime-salad-dressing.md
       - Peanut Dipping Sauce: sauces-and-dressings/peanut-dipping-sauce.md
+      - Persian Yogurt Dip with Shallots (Mast-O Musir): >-
+            sauces-and-dressings/persian-yogurt-dip-with-shallots-(mast-o-musir).md
       - Ranch Dip: sauces-and-dressings/ranch-dip.md
       - Ranch Dressing: sauces-and-dressings/ranch-dressing.md
       - Rip's Salad Dressing: sauces-and-dressings/rip's-salad-dressing.md
@@ -601,6 +603,7 @@ nav:
       - Strawberry Protein Bites: sides/strawberry-protein-bites.md
       - The Best Crispy Roast Potatoes Ever Recipe: sides/the-best-crispy-roast-potatoes-ever-recipe.md
       - Three-Bean Salad: sides/three-bean-salad.md
+      - Tomato Feta Pasta Salad: sides/tomato-feta-pasta-salad.md
   - Soups & Stews:
       - Baked Potato Soup: soups-and-stews/baked-potato-soup.md
       - Black Bean and Butternut Soup: soups-and-stews/black-bean-and-butternut-soup.md
