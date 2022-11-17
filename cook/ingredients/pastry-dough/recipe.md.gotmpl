@@ -1,9 +1,17 @@
+{{- define "custom.section" -}}
+{{ if .Info.ImageFileName }}
+![{{ .Info.RecipeName }}](../../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }})
+{{ end }}
+{{- end -}}
 ---
 comments: true
+tags:
+  - pastry-dough
+  - ingredient
 ---
 {{ template "cook.headerSection" . }}
 
-{{ template "cook.imageSection" . }}
+{{ template "custom.section" . }}
 
 {{ template "cook.tableSection" . }}
 

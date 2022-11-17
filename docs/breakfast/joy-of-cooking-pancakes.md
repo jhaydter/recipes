@@ -2,6 +2,8 @@
 comments: true
 tags:
   - breakfast
+  - pancake
+  - joy-of-cooking
 ---
 # :pancakes: Joy of Cooking Pancakes
 
