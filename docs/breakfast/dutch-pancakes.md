@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.25 cups all-purpose flour
+- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
 - :egg: 4 eggs
-- :glass_of_milk: 1 cup milk
-- :ice_cube: 1.25 cups cold water
-- :butter: 3 Tbsp butter
+- :glass_of_milk: 1 cup (227 g) milk
+- :ice_cube: 1.25 cups (284 g) cold water
+- :butter: 3 Tbsp (42 g) butter
 - :icecream: 1 tsp vanilla
 - :custard: some cinnamon (optional)
 - :candy: some sugar (optional)
@@ -32,42 +32,18 @@ tags:
 
 ### Step 1
 
-1 1/4 cups all purpose flour
+Mix together all-purpose flour, eggs, milk, cold water, melted butter, and vanilla with a blender or mixer.
 
 ### Step 2
 
-4 eggs
-
-### Step 3
-
-1 cup milk
-
-### Step 4
-
-1.25 cups cold water
-
-### Step 5
-
-3 tablespoons butter melted
-
-### Step 6
-
-1 tsp. vanilla extract
-
-### Step 7
-
-Mix together all-purpose flour, eggs, milk, cold water, melted butter, and vanilla with a blender or mixer.
-
-### Step 8
-
 If you can let sit for about 1 hour in the refrigerator (that's best).
 
-### Step 9
+### Step 3
 
 If you can't wait, then pour about 3 tablespoons at time into a buttered or greased frying pan on medium heat until the
 surface is bubbly. Turn over for about 1 minute.
 
-### Step 10
+### Step 4
 
 Then put on a plate, sprinkle cinnamon (optional) and sugar (optional) on it and roll up and enjoy.
 

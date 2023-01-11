@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :stew: Roux
 
@@ -11,6 +11,22 @@ tags:
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 20 minutes |
+
+## :scales: Ratios
+
+| :ear_of_rice: flour | :butter: fat  |
+|:-------------------:|:-------------:|
+| 3                   | 2             |
+
+!!! note
+
+    At home, and especially for small amounts, equal parts of flour and whole butter by weight can be used.
+
+### :stew: Thickening
+
+| Liquid  | Roux  |
+|:-------:|:-----:|
+| 10      | 1     |
 
 ## :salt: Ingredients
 
@@ -33,6 +49,7 @@ tags:
 ## :pencil: Instructions
 
 !!! note
+
     The longer you cook the roux, the less it will thicken a sauce or other mixture. Heat eventually breaks down the
     starch in the flour.
 

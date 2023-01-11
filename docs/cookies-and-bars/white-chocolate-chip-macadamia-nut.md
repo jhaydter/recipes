@@ -14,15 +14,16 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.75 cup butter
-- :candy: 0.5 cup granulated sugar
+- :butter: 0.75 cup (170 g) butter
+- :maple_leaf: 1 cup (213 g) brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 eggs
 - :icecream: 2 tsp vanilla
-- :ear_of_rice: 2.25 cup all-purpose flour
+- :ear_of_rice: 2.25 cup (270 g) all-purpose flour
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 1 tsp salt
-- :chocolate_bar: 1 cup white chocolate chips
-- :chestnut: 1 cup macadamia nuts
+- :chocolate_bar: 1 cup (170 g) white chocolate chips
+- :chestnut: 1 cup (149 g) macadamia nuts
 
 ## :cooking: Cookware
 
@@ -37,8 +38,8 @@ Preheat your oven to 350°F.
 
 ### Step 2
 
-Cream together your butter and granulated sugar until it’s light and fluffy. Add in the eggs and vanilla, mixing
-thoroughly. Beat in the all-purpose flour, baking soda and salt.
+Cream together your butter, brown sugar, and granulated sugar until it’s light and fluffy. Add in the eggs and vanilla,
+mixing thoroughly. Beat in the all-purpose flour, baking soda and salt.
 
 ### Step 3
 
