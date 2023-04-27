@@ -6,7 +6,7 @@ tags:
 ---
 # :baguette_bread: Ladyfingers
 
-![Ladyfingers](../assets/images/ladyfingers.png)
+![Ladyfingers](../assets/images/ladyfingers.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -50,4 +50,4 @@ rack, and cool completely. Store in an airtight container.
 
 - Joy of Cooking
 
-[1]: <../ingredients/french-sponge-cake-(biscuit).md>
+[1]: <../ingredients/sponge/french-sponge-cake-(biscuit).md>

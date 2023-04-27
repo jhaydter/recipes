@@ -7,7 +7,7 @@ tags:
 ---
 # :broccoli: Healthy Pasta with Pesto & Broccoli
 
-![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.jpg)
+![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -77,4 +77,4 @@ Sprinkle with remaining half Parmesan cheese. Serve hot.
 
 - <https://ifoodreal.com/healthy-pasta/>
 
-[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>

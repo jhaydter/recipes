@@ -25,6 +25,12 @@ own personal reference.
 
 !!! info
 
+    Myself being a [lacto-ovo vegetarian][6], will often convert the original recipes to fit my diet. Recipes that
+    have been passed down through the original ingredients are kept to use the original ingredients or at least
+    list a vegetarian alternative.
+
+!!! info
+
     Recipes, when applicable, have the original source specified to give them credit.
 
 !!! warning
@@ -42,13 +48,14 @@ The following may be assumed throughout the site unless otherwise specified
 - `pepper` refers to `black pepper`.
 - `flour` refers to `all-purpose flour`.
 - `vanilla` refers to `vanilla extract`.
-- `heavy cream` is the same as `whipping cream`.
+- `heavy cream` is the same as `whipping` and `double cream`.
 - `stock` is the same as `broth`.
 - `caster`, `white`, and `sugar` is the same as `granulated sugar`.
 - `powdered sugar` is the same as `confectioners' sugar`.
 - `brown sugar` measurements are `packed`
 - Temperatures are in `°F`.
 - Powdered measurements are sifted.
+- Liquid ingredient measurements in `g` are equivalent to `mL`.
 
 ## :gear:&nbsp; Development
 
@@ -64,3 +71,5 @@ Development of this site is documented [here][3].
 [2]: <https://github.com/jhaydter/>
 [3]: <./reference/development.md>
 [4]: <https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough>
+[5]: <https://giscus.app/>
+[6]: <https://en.wikipedia.org/wiki/Lacto-ovo_vegetarianism>

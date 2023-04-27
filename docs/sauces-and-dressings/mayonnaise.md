@@ -2,10 +2,11 @@
 comments: true
 tags:
   - sauce
+  - cooks-illustrated
 ---
-# Mayonnaise
+# :egg: Mayonnaise
 
-![Mayonnaise](../assets/images/mayonnaise.jpg)
+![Mayonnaise](../assets/images/mayonnaise.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -13,12 +14,12 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 large egg
-- 4 tsp white wine vinegar
-- 0.5 tsp Dijon mustard
-- 0.75 tsp salt
-- 0.25 tsp sugar
-- 1.5 cups vegetable oil
+- :egg: 1 large egg
+- :sake: 4 tsp white wine vinegar
+- :hotdog: 0.5 tsp Dijon mustard
+- :salt: 0.75 tsp salt
+- :candy: 0.25 tsp sugar
+- :oil_drum: 1.5 cups vegetable oil
 
 ## :cooking: Cookware
 
@@ -29,6 +30,11 @@ tags:
 ## :pencil: Instructions
 
 !!! note
+
+    See [Tofu Mayonnaise for a vegan alternative][1]
+
+!!! note
+
     Do not substitute olive oil for the vegetable oil; the mayonnaise will turn out bitter.
 
 ### Step 1
@@ -41,3 +47,5 @@ refrigerate until ready to use. (Mayonnaise can be refrigerated for up to 1 week
 ## :link: Source
 
 - <https://www.cookscountry.com/recipes/11467-easy-homemade-mayonnaise>
+
+[1]: <./tofu-mayonnaise.md>

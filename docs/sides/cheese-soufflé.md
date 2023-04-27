@@ -12,22 +12,22 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 5.5 Tbsp unsalted butter
-- :ear_of_rice: 0.25 cup all-purpose flour
-- :glass_of_milk: 2.25 cup milk
+- :butter: 5.5 Tbsp (78 g) unsalted butter
+- :ear_of_rice: 0.25 cup (30 g) all-purpose flour
+- :glass_of_milk: 2.25 cup (511 g) milk
 - :onion: 1 small onion
 - :star: 1 star anise
 - :four_leaf_clover: 3 cloves
 - :fallen_leaf: 1 bay leaf
 - :egg: 6 egg
-- :cheese_wedge: 1 cup Gruyère
-- :cheese_wedge: 1 cup mature cheddar
-- :cheese_wedge: 0.75 cup Parmesan
+- :cheese_wedge: 1 cup (113 g) Gruyère
+- :cheese_wedge: 1 cup (113 g) mature cheddar
+- :cheese_wedge: 0.75 cup (75 g) Parmesan
 - :sake: 1 Tbsp Worcestershire sauce
 - :hotdog: 1 tsp mustard powder
 - :salt: some pepper
 - :lemon: 1 squeeze lemon juice
-- :cheese_wedge: 1 cup ripe Brie
+- :cheese_wedge: 1 cup (113 g) ripe Brie
 
 ## :cooking: Cookware
 
@@ -37,9 +37,9 @@ tags:
 
 ### Step 1
 
-Mix 3.5 tablespoons of unsalted butter and all-purpose flour to make a paste called beurre manie. Chill to firm for 30
-minutes. Heat milk to boil add the onion, star anise, cloves and bay leaf, reduce to simmer for 5 minutes. Remove from
-heat, let cool. Taste test for flavor.
+Mix 3.5 tablespoons (49 g) of unsalted butter and all-purpose flour to make a paste called [beurre manie][1]. Chill to
+firm for 30 minutes. Heat milk to boil add the onion, star anise, cloves and bay leaf to make an [onion pique][2],
+reduce to simmer for 5 minutes. Remove from heat, let cool. Taste test for flavor.
 
 ### Step 2
 
@@ -62,9 +62,13 @@ cheese mixture until well blended, but still light.
 ### Step 5
 
 Spoon half of the mixture into the prepared soufflé dish and dot with the ripe Brie pieces then top with the remaining
-mixture. Gently level off the top. Bake 10 minutes then reduce oven temperature to 365°F / 185°C and bake another 15
-to 20 minutes. Soufflé should evenly rise and be slightly wobbly. Serve immediately.
+mixture. Gently level off the top. Arrange Gruyère on top, scatter with remaining Parmesan. Bake 10 minutes then
+reduce oven temperature to 365°F / 185°C and bake another 15 to 20 minutes. Soufflé should evenly rise and be slightly
+wobbly. Serve immediately.
 
 ## :link: Source
 
-- Gordon Ramsay
+- <https://www.bbcgoodfood.com/recipes/classic-cheese-souffle>
+
+[1]: <../ingredients/beurre-manié.md>
+[2]: <../ingredients/onion-pique.md>

@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: The Best Lemon Meringue Pie
 
-![The Best Lemon Meringue Pie](../../assets/images/the-best-lemon-meringue-pie.png)
+![The Best Lemon Meringue Pie](../../assets/images/the-best-lemon-meringue-pie.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -34,7 +34,7 @@ tags:
 ## :salt: Ingredients - Meringue
 
 - :egg: 3 egg whites
-- 0.25 tsp cream of tartar
+- :rice: 0.25 tsp cream of tartar
 - :candy: 6 Tbsp superfine sugar
 - :icecream: 0.5 tsp vanilla
 

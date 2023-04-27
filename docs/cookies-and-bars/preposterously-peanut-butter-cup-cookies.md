@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Preposterously Peanut Butter Cup Cookies
 
-![Preposterously Peanut Butter Cup Cookies](../assets/images/preposterously-peanut-butter-cup-cookies.png)
+![Preposterously Peanut Butter Cup Cookies][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,13 +15,13 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cups sugar
-- 2 cups [peanut butter][1]
-- 2 cups sugar
-- 2 large eggs
-- 2 tsp baking soda
-- 2 tsp bourbon vanilla
-- 16 TJ's Dark Chocolate Peanut Butter Cups
+- :candy: 2 cups sugar
+- :peanuts: 2 cups [peanut butter][1]
+- :candy: 2 cups sugar
+- :egg: 2 large eggs
+- :cup_with_straw: 2 tsp baking soda
+- :icecream: 2 tsp bourbon vanilla
+- :chocolate_bar: 16 TJ's Dark Chocolate Peanut Butter Cups
 
 ## :cooking: Cookware
 
@@ -52,3 +52,4 @@ cool on baking sheet for 5 minutes before transferring cookies to cooling racks.
 - <https://www.traderjoes.com/home/recipes/preposterously-peanut-butter-cup-cookies>
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../assets/images/preposterously-peanut-butter-cup-cookies.png>

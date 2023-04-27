@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
 # :cheese_wedge: Baked Feta with Chickpeas & Kale
 
-![Baked Feta with Chickpeas and Kale](../assets/images/baked-feta-with-chickpeas-and-kale.jpg)
+![Baked Feta with Chickpeas and Kale](../assets/images/baked-feta-with-chickpeas-and-kale.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,18 +13,18 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 Tbsp olive oil
-- 1 tsp cumin
-- 1 bunch kale
-- 2 cups marinara
-- 1.5 cups cooked chickpeas
-- 1 Tbsp lemon juice
-- 0.5 cup water
-- 1 12-oz block feta
-- some pepper
-- 1 pinch red pepper flakes
-- some pita or baguette
-- some lemon wedges
+- :olive: 2 Tbsp olive oil
+- :custard: 1 tsp cumin
+- :leafy_green: 1 bunch kale
+- :tomato: 2 cups marinara
+- :stuffed_flatbread: 1.5 cups cooked chickpeas
+- :lemon: 1 Tbsp lemon juice
+- :droplet: 0.5 cup water
+- :cheese_wedge: 1 12-oz block feta
+- :salt: some pepper
+- :hot_pepper: 1 pinch red pepper flakes
+- :flatbread: some pita or baguette
+- :lemon: some lemon wedges
 
 ## :cooking: Cookware
 

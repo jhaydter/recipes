@@ -3,10 +3,11 @@ comments: true
 tags:
   - filling
   - ingredient
+  - custard
 ---
 # :custard: Crème Chiboust
 
-![Crème Chiboust](../assets/images/crème-chiboust.jpg)
+![Crème Chiboust](../assets/images/crème-chiboust.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -14,7 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- 7 g Gelatin (optional)
+- :egg: some [crème pâtissière][1]
+- :egg: some [italian meringue][2]
+- :custard: 7 g Gelatin (optional)
 
 ## :cooking: Cookware
 

@@ -105,6 +105,7 @@ $$
 | Bread Crumbs (fresh)                                  | 1/4 cup           | 21          | 3/4         |
 | Bread Crumbs (Panko)                                  | 1/4 cup           | 50          | 1-3/4       |
 | Bread Flour                                           | 1 cup             | 120         | 4-1/4       |
+| Broccoli                                              | 1 cup             | 91          | 3.2         |
 | Brown Rice (cooked)                                   | 1 cup             | 170         | 6           |
 | Brown Rice Flour                                      | 1 cup             | 128         | 4-1/2       |
 | Brown Sugar (dark or light, packed)                   | 1 cup             | 213         | 7-1/2       |
@@ -123,6 +124,7 @@ $$
 | Carrots (grated)                                      | 1 cup             | 99          | 3-1/2       |
 | Cashews (chopped)                                     | 1 cup             | 113         | 4           |
 | Cashews (whole)                                       | 1 cup             | 113         | 4           |
+| Cauliflower                                           | 1 cup             | 100         | 3.5         |
 | Celery (diced)                                        | 1 cup             | 142         | 5           |
 | Cheese (feta)                                         | 1/2 cup           | 57          | 2           |
 | Cheese (grated cheddar, jack, mozzarella or Swiss)    | 1 cup             | 113         | 4           |
@@ -131,6 +133,7 @@ $$
 | Cherries (candied)                                    | 1/4 cup           | 50          | 1-3/4       |
 | Cherries (dried)                                      | 1/2 cup           | 71          | 2-1/2       |
 | Cherries (frozen)                                     | 1 cup             | 113         | 4           |
+| Chia Seeds                                  | 1 Tbsp            | 10          | 3/8         |
 | Chickpea Flour                                        | 1 cup             | 85          | 3           |
 | Chives (fresh)                                        | 1/2 cup           | 21          | 3/4         |
 | Chocolate (chopped)                                   | 1 cup             | 170         | 6           |
@@ -184,6 +187,7 @@ $$
 | Gluten-Free All-Purpose Flour                         | 1 cup             | 156         | 5-1/2       |
 | Graham Cracker Crumbs (boxed)                         | 1 cup             | 99          | 3-1/2       |
 | Graham Crackers (crushed)                             | 1 cup             | 142         | 5           |
+| Graham Cracker Sheet                            | 1 sheet           | 15          | 1/2         |
 | Granola                                               | 1 cup             | 113         | 4           |
 | Grape-Nuts                                            | 1/2 cup           | 57          | 2           |
 | Harvest Grains Blend                                  | 1/2 cup           | 74          | 2-5/8       |
@@ -224,14 +228,16 @@ $$
 | Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
 | Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
+| Olive Oil                                             | 1/4 cup           | 50          | 1-/34       |
+| Onion (fresh, diced)                                  | 1 cups            | 142         | 5           |
 | Peanut Butter                                         | 1 cup             | 135         | 4-3/4       |
 | Peanuts (whole, shelled)                              | 1 cup             | 142         | 5           |
 | Pecans (whole)                                        | 1 cup             | 99          | 3-1/2       |
-| Pine Nuts                                       | 1/2 cup           | 71          | 2-1/2       |
+| Pine Nuts                                             | 1/2 cup           | 71          | 2-1/2       |
 | Pineapple (crushed, drained)                          | 1 cup             | 256         | 9           |
 | Pineapple (dried)                                     | 1/2 cup           | 71          | 2-1/2       |
 | Pineapple (fresh or canned, diced)                    | 1 cup             | 170         | 6           |
-| Pistachio Nuts (shlled)                         | 1/2 cup           | 60          | 2-1/8       |
+| Pistachio Nuts (shlled)                               | 1/2 cup           | 60          | 2-1/8       |
 | Polenta (coarse ground cornmeal)                      | 1 cup             | 163         | 5-3/4       |
 | Quinoa (whole)                                        | 1 cup             | 177         | 6-1/4       |
 | Quinoa Flour                                          | 1 cup             | 110         | 3-7/8       |
@@ -274,6 +280,7 @@ $$
 | Teff Flour                                            | 1 cup             | 135         | 4-3/4       |
 | Toasted Almond Flour                                  | 1 cup             | 96          | 3-3/8       |
 | Toffee Chunks                                         | 1 cup             | 156         | 5-1/2       |
+| Tomato Paste                                          | 2 Tbsp            | 29          | 1           |
 | Tubinado Sugar (raw)                                  | 1 cup             | 180         | 6-3/8       |
 | Unbleached Cake Flour                                 | 1 cup             | 120         | 4-1/4       |
 | Vanilla Extract                                       | 1 Tbsp            | 14          | 1/2         |

@@ -7,7 +7,7 @@ tags:
 ---
 # :snowman: Gingerbread People
 
-![Gingerbread People](../assets/images/gingerbread-people.jpg)
+![Gingerbread People](../assets/images/gingerbread-people.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -50,5 +50,5 @@ While they are still warm, spread evenly with [lemon glaze][2].
 
 Cool before frosting with [Royal icing][1].
 
-[1]: <../ingredients/royal-icing.md>
+[1]: <../ingredients/post-baking-glazes/royal-icing.md>
 [2]: <../ingredients/post-baking-glazes/lemon-glaze.md>

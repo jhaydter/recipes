@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :rice: Pectin
 
-![Pectin](../assets/images/pectin.jpg)
+![Pectin](../assets/images/pectin.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -23,6 +25,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     Pectin is a natural fiber found in most plants. Fruits like apples and oranges are particularly high in pectin,
     with the highest concentrations in the skins, cores and seeds.
 
@@ -35,9 +38,9 @@ one tablespoon of lemon juice for 30 minutes, then strain through cheesecloth
 
 Boil further to reduce the volume by half will result in an effective homemade liquid pectin.
 
-### Step 3
+!!! info
 
-See [Equivalents & Substitutes][1] for dry to liquid pectin conversion.
+    See [Equivalents & Substitutes][1] for dry to liquid pectin conversion.
 
 ## :link: Source
 

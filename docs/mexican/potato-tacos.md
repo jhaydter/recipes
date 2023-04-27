@@ -2,10 +2,11 @@
 comments: true
 tags:
   - mexican
+  - tacos
 ---
 # :taco: Potato Tacos
 
-![Potato Tacos](../assets/images/potato-tacos.jpg)
+![Potato Tacos](../assets/images/potato-tacos.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,7 +17,7 @@ tags:
 - :potato: 1 lb potatoes
 - :olive: 1 Tbsp olive oil
 - :bell_pepper: 1 bell pepper
-- :herb: 2 Tbsp taco seasoning
+- :herb: 2 Tbsp [taco seasoning][3]
 - :canned_food: 1 15-oz can [black beans][2]
 - :canned_food: 1 15-oz can [refried beans][1]
 - :flatbread: 8 tortillas
@@ -51,3 +52,4 @@ To assemble tacos, layer beans and potato/pepper mix, then add toppings as desir
 
 [1]: <../pressurecooker/refried-black-beans.md>
 [2]: <../pressurecooker/black-beans.md>
+[3]: <../ingredients/seasonings/taco-seasoning.md>

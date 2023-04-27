@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Summer Pesto Pasta
 
-![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg)
+![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -47,4 +47,4 @@ In a separate bowl combine store-bought [pesto][1], zest and juice from 1 lemon.
 
 Mix well, then pour in pasta. Combine veggies into pasta and serve.
 
-[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>

@@ -5,7 +5,7 @@ tags:
 ---
 # :doughnut: Cinnamon Rolls
 
-![Cinnamon Rolls](../assets/images/cinnamon-rolls.png)
+![Cinnamon Rolls](../assets/images/cinnamon-rolls.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -113,7 +113,7 @@ parchment paper. Cover loosely with a dish cloth and allow to rise for another h
 
 Bake the cinnamon rolls at 350°F for 30 minutes or until they are golden brown and no longer doughy. Allow to cool.
 
-## :Pencil: Instructions - Cream Cheese Frosting
+## :pencil: Instructions - Cream Cheese Frosting
 
 ### Step 14
 

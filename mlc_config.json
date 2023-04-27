@@ -1,3 +1,35 @@
 {
+  "ignorePatterns": [
+      {
+        "pattern": "^https://www.freshfoodbites.com/lemon-pepper-parsley-pesto/"
+      },
+      {
+        "pattern": "^https://www.bakepedia.com/montelimar-nougat/"
+      },
+      {
+        "pattern": "^https://www.bluezones.com/"
+      },
+      {
+        "pattern": "^https://yummynotes.net/adas-polo-recipe/"
+      },
+      {
+        "pattern": "^https://www.cookscountry.com/recipes/11467-easy-homemade-mayonnaise"
+      },
+      {
+        "pattern": "^https://hellskitchenrecipes.com/gordon-ramsay-tomato-soup/"
+      },
+      {
+        "pattern": "^https://purekitchenblog.com/homemade-seasoning-blend-i-use-on-everything/"
+      },
+      {
+        "pattern": "^https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer/"
+      },
+      {
+        "pattern": "^https://cooktoria.com/baked-black-bean-taquitos/"
+      },
+      {
+        "pattern": "^https://www.thekitchn.com/refrigerated-cookie-dough-268281"
+      }
+  ],
   "aliveStatusCodes": [200, 206, 403, 429]
 }

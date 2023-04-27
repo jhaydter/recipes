@@ -6,7 +6,7 @@ tags:
 ---
 # :stew: Sam's Sweet Potato Soup
 
-![Sam's Sweet Potato Soup](../assets/images/sam's-sweet-potato-soup.png)
+![Sam's Sweet Potato Soup](../assets/images/sam's-sweet-potato-soup.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -51,4 +51,4 @@ Ladle soup into large bowls and serve with crusty bread for dipping.
 - Trader Joe's
 
 [1]: <../ingredients/vegetable-broth.md>
-[2]: <../ingredients/taco-seasoning.md>
+[2]: <../ingredients/seasonings/taco-seasoning.md>

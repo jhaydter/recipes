@@ -7,7 +7,7 @@ tags:
 ---
 # :sandwich: Caprese Sandwich
 
-![Caprese Sandwich](../assets/images/caprese-sandwich.jpg)
+![Caprese Sandwich](../assets/images/caprese-sandwich.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -34,4 +34,4 @@ Add slices of tomato and mozzarella to the bread to make a sandwich.
 
 - Applied Kitchen
 
-[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>

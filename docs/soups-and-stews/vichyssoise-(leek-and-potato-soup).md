@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Vichyssoise (Leek & Potato Soup)
 
-![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).jpg)
+![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -47,10 +47,10 @@ Season with salt and white pepper to taste and stir in 1/2 to 1 cup of whipping 
 
 I served the soup with a garnish of minced chives as Julia suggests.
 
-### Step 5
+!!! note
 
-Editor’s Note: White pepper is recommended in this recipe because it blends in with the color of the soup. If all you
-have is black pepper, that’s perfectly fine to use.
+    White pepper is recommended in this recipe because it blends in with the color of the soup. If all you have is
+    black pepper, that’s perfectly fine to use.
 
 ## :link: Source
 

@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: The New York Times Chocolate Chip Cookies
 
-![The New York Times Chocolate Chip Cookies](../assets/images/the-new-york-times-chocolate-chip-cookies.jpg)
+![The New York Times Chocolate Chip Cookies][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -14,18 +14,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 30 Tbsp (225 g) cake flour
-- 1.66 cups (199 g) bread flour
-- 1.25 tsp baking soda
-- 1.5 tsp baking powder
-- 1.5 tsp salt
-- 1.25 cups (283 g) unsalted butter
-- 1.25 cups (266 g) [light brown sugar][1]
-- 18 Tbsp (223 g) granulated sugar
-- 2 eggs
-- 2 tsp vanilla
-- 3.33 cups (566 g) 60% cocoa dark chocolate chips
-- some sea salt
+- :ear_of_rice: 30 Tbsp (225 g) cake flour
+- :ear_of_rice: 1.66 cups (199 g) bread flour
+- :cup_with_straw: 1.25 tsp baking soda
+- :dash: 1.5 tsp baking powder
+- :salt: 1.5 tsp salt
+- :butter; 1.25 cups (283 g) unsalted butter
+- :maple_leaf: 1.25 cups (266 g) [light brown sugar][1]
+- :candy: 18 Tbsp (223 g) granulated sugar
+- :egg: 2 eggs
+- :icecream: 2 tsp vanilla
+- :chocolate_bar: 3.33 cups (566 g) 60% cocoa dark chocolate chips
+- :salt: some sea salt
 
 ## :cooking: Cookware
 
@@ -69,3 +69,4 @@ leftover cookies in an airtight container at room temperature for up to 3 days.
 - <https://www.browneyedbaker.com/the-new-york-times-chocolate-chip-cookies/>
 
 [1]: <../ingredients/brown-sugar.md>
+[2]: <../assets/images/the-new-york-times-chocolate-chip-cookies.jpg>

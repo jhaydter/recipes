@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - side
+  - tante-myrna-seccia
 ---
 # :green_salad: Pasta Salad
 
-![Pasta Salad](../assets/images/pasta-salad.jpg)
+![Pasta Salad](../assets/images/pasta-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -15,7 +18,7 @@ comments: true
 - :garlic: some garlic salt
 - :onion: some onion powder
 - :salt: some salt
-- :salt: some Italian seasoning
+- :salt: some [Italian seasoning][1]
 - :broccoli: 0.5 cup broccoli
 - :olive: 2 Tbsp olives
 - :tomato: 1 roasted tomato
@@ -50,3 +53,5 @@ Leave in the refrigerator at least one hour before serving.
 ## :link: Source
 
 - Tante Myrna Seccia
+
+[1]: <../ingredients/seasonings/italian-seasoning.md>

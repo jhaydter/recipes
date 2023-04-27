@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Caprese Risoni
 
-![Caprese Risoni](../assets/images/caprese-risoni.jpg)
+![Caprese Risoni](../assets/images/caprese-risoni.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -44,4 +44,4 @@ Chop organic tomatoes on a vine and mix cannellini beans, pesto, and optional Ci
 
 Serve and drizzle with balsamic glaze.
 
-[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>

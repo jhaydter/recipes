@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Danette's Kosher Marshmallow Creme Fondant (DKF)
 
-![Danette's Kosher Marshmallow Creme Fondant (DKF)](../../assets/images/danette's-kosher-marshmallow-creme-fondant.png)
+![Danette's Kosher Marshmallow Creme Fondant (DKF)][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -68,4 +68,6 @@ add up to two teaspoons. For modeling please let it set overnight and allow the 
 
 ## :link: Source
 
-- <https://www.theshortcakes.com/single-post/2015/11/05/dkf-danettes-kosher-marshmallow-creme-fondant>
+- The Short Cakes
+
+[1]: <../../assets/images/danette's-kosher-marshmallow-creme-fondant.png>

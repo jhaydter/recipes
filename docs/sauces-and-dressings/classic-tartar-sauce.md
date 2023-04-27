@@ -5,7 +5,7 @@ tags:
 ---
 # :fish: Classic Tartar Sauce
 
-![Classic Tartar Sauce](../assets/images/classic-tartar-sauce.jpg)
+![Classic Tartar Sauce](../assets/images/classic-tartar-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -44,7 +44,7 @@ Do Ahead: Tartar sauce can be made 1 week ahead. Cover and chill.
 
 ## :link: Source
 
-- <https://www.bonappetit.com/recipe/classic-tartar-sauce/amp>
+- <https://www.bonappetit.com/recipe/classic-tartar-sauce/>
 
 [1]: <./mayonnaise.md>
 [2]: <./dijon-mustard.md>

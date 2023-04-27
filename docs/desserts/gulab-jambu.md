@@ -6,7 +6,7 @@ tags:
 ---
 # :doughnut: Gulab Jambu
 
-![Gulab Jambu](../assets/images/gulab-jambu.jpg)
+![Gulab Jambu](../assets/images/gulab-jambu.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -84,5 +84,5 @@ container for a few hours and eat chilled.
 
 - <https://www.thekitchn.com/gulab-jambu-pooja-bavishi-23436759>
 
-[1]: <../ingredients/clarified-butter.md>
+[1]: <../ingredients/butter/clarified-butter.md>
 [2]: <../ingredients/bisquick.md>

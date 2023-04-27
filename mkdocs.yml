@@ -38,7 +38,9 @@ nav:
   - Asian:
       - Banh Mi Sandwich: asian/banh-mi-sandwich.md
       - Coconut Curried Vegetables with Rice: asian/coconut-curried-vegetables-with-rice.md
-      - Cool and Spicy Noodle Salad: asian/cool-and-spicy-noodle-salad.md
+      - Cool & Spicy Noodle Salad: asian/cool-and-spicy-noodle-salad.md
+      - Crispy Peanut Tofu & Cauliflower Rice Stir Fry: asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md
+      - Easy Vegan Ramen: asian/easy-vegan-ramen.md
       - Everyday Chinese Vegetable Stir-Fry: asian/everyday-chinese-vegetable-stir-fry.md
       - Fresh Spring Rolls: asian/fresh-spring-rolls.md
       - Noodle-Free Pad Thai: asian/noodle-free-pad-thai.md
@@ -46,16 +48,21 @@ nav:
       - Vegetarian Egg Rolls: asian/vegetarian-egg-rolls.md
   - Beverages:
       - Cooked Eggnog: beverages/cooked-eggnog.md
+      - Ginger Cubes: beverages/ginger-cubes.md
+      - Hot Chocolate: beverages/hot-chocolate.md
       - Iced Chai Latte: beverages/iced-chai-latte.md
       - Iced Hibiscus Tea: beverages/iced-hibiscus-tea.md
+      - Oat Milk: beverages/oat-milk.md
       - Old Irish Coffee: beverages/old-irish-coffee.md
       - Olde Tyme Lemonade: beverages/olde-tyme-lemonade.md
       - Pineapple Paradise: beverages/pineapple-paradise.md
       - Spinach Banana Smoothie: beverages/spinach-banana-smoothie.md
+      - Strawberry Whip: beverages/strawberry-whip.md
   - Breads:
       - Basic Sweet Babka: breads/basic-sweet-babka.md
       - Best-Ever Banana Bread: breads/best-ever-banana-bread.md
       - Bread Machine French Bread: breads/bread-machine-french-bread.md
+      - Brioche: breads/brioche.md
       - Chocolate Chip Peanut Butter Banana Bread: breads/chocolate-chip-peanut-butter-banana-bread.md
       - Cinnamon Streusel Bread: breads/cinnamon-streusel-bread.md
       - Cranberry Orange Bread: breads/cranberry-orange-bread.md
@@ -108,12 +115,13 @@ nav:
       - Pan Boxty: breakfast/pan-boxty.md
       - Peanut Butter Overnight Oats: breakfast/peanut-butter-overnight-oats.md
       - Pillowy Soft Cinnamon Rolls: breakfast/pillowy-soft-cinnamon-rolls.md
+      - Powdered Sugar Doughnuts: breakfast/powdered-sugar-doughnuts.md
       - Pumpkin Muffins: breakfast/pumpkin-muffins.md
       - Queen Elizabeth II's Drop Scones: breakfast/queen-elizabeth-ii's-drop-scones.md
       - Slow Cooker Mexican Egg Casserole: breakfast/slow-cooker-mexican-egg-casserole.md
       - Sweet Potato Pancakes: breakfast/sweet-potato-pancakes.md
       - Toasted-Coconut Granola: breakfast/toasted-coconut-granola.md
-      - The Food Lab Light and Fluffy Scrambled Eggs: breakfast/the-food-lab-light-and-fluffy-scrambled-eggs.md
+      - The Food Lab Light & Fluffy Scrambled Eggs: breakfast/the-food-lab-light-and-fluffy-scrambled-eggs.md
       - Vegan Bacon: breakfast/vegan-bacon.md
       - Vegan Banana Pancakes: breakfast/vegan-banana-pancakes.md
       - Whole Wheat Pancakes: breakfast/whole-wheat-pancakes.md
@@ -125,10 +133,13 @@ nav:
       - Apple Cinnamon Raisin Bars: cookies-and-bars/apple-cinnamon-raisin-bars.md
       - Black & White Cookies: cookies-and-bars/black-and-white-cookies.md
       - Broma Bakery Chewy Peanut Butter Cookies: cookies-and-bars/broma-bakery-chewy-peanut-butter-cookies.md
+      - Brown Butter Chocolate Chunk Cookies: cookies-and-bars/brown-butter-chocolate-chunk-cookies.md
       - Brown Butter Iced Oatmeal Cookies: cookies-and-bars/brown-butter-iced-oatmeal-cookies.md
       - Brown Butter Macadamia Nut: cookies-and-bars/brown-butter-macadamia-nut.md
       - Browned Butter Blondies: cookies-and-bars/browned-butter-blondies.md
+      - Butter Cookies: cookies-and-bars/butter-cookies.md
       - Butter Swirl Shortbread Cookies: cookies-and-bars/butter-swirl-shortbread-cookies.md
+      - Butterscotch Brownies: cookies-and-bars/butterscotch-brownies.md
       - Buttery Shortbread: cookies-and-bars/buttery-shortbread.md
       - Chewy Brownies: cookies-and-bars/chewy-brownies.md
       - Chewy Peanut Butter Cookies: cookies-and-bars/chewy-peanut-butter-cookies.md
@@ -144,6 +155,7 @@ nav:
       - Cook's Illustrated Perfect Chocolate Chip Cookies: >-
           cookies-and-bars/cook's-illustrated-perfect-chocolate-chip-cookies.md
       - Double Chocolate Mint Paleo Cookies: cookies-and-bars/double-chocolate-mint-paleo-cookies.md
+      - Edible Cookie Dough: cookies-and-bars/edible-cookie-dough.md
       - Florentines: cookies-and-bars/florentines.md
       - French Macarons: cookies-and-bars/french-macarons.md
       - Glazed Lemon Bars: cookies-and-bars/glazed-lemon-bars.md
@@ -160,9 +172,12 @@ nav:
       - Oatmeal Cream Pies: cookies-and-bars/oatmeal-cream-pies.md
       - Oatmeal Raisin: cookies-and-bars/oatmeal-raisin.md
       - Oreos: cookies-and-bars/oreos.md
+      - Peanut Butter Bars with Salted Chocolate Ganache: >-
+          cookies-and-bars/peanut-butter-bars-with-salted-chocolate-ganache.md
       - Peanut Butter Crisscrosses: cookies-and-bars/peanut-butter-crisscrosses.md
       - Salted Caramel Chocolate Macarons: cookies-and-bars/salted-caramel-chocolate-macarons.md
       - Salted Peanut Butter: cookies-and-bars/salted-peanut-butter.md
+      - Soft White Chocolate Chip Cranberry Cookies: cookies-and-bars/soft-white-chocolate-chip-cranberry-cookies.md
       - Peanut Butter Sandwich Cookies: cookies-and-bars/peanut-butter-sandwich-cookies.md
       - Preposterously Peanut Butter Cup Cookies: cookies-and-bars/preposterously-peanut-butter-cup-cookies.md
       - Pumpkin Cheesecake Cookies: cookies-and-bars/pumpkin-cheesecake-cookies.md
@@ -171,6 +186,7 @@ nav:
       - Simple Sugar Cookies: cookies-and-bars/simple-sugar-cookies.md
       - Snickerdoodles: cookies-and-bars/snickerdoodles.md
       - Tante Myrn's Sugar Cookies: cookies-and-bars/tante-myrn's-sugar-cookies.md
+      - The Best Sugar Cookies: cookies-and-bars/the-best-sugar-cookies.md
       - The New York Times Chocolate Chip Cookies: cookies-and-bars/the-new-york-times-chocolate-chip-cookies.md
       - Traditional Italian Biscotti: cookies-and-bars/traditional-italian-biscotti.md
       - Twix: cookies-and-bars/twix.md
@@ -194,19 +210,24 @@ nav:
           - Cherry Almond Skyr Cake: desserts/cake/cherry-almond-skyr-cake.md
           - Cinnamon Chocolate Cake: desserts/cake/cinnamon-chocolate-cake.md
           - Cinnamon Coffee Cake: desserts/cake/cinnamon-coffee-cake.md
+          - Cinnamon-Crisp Coffee Cake: desserts/cake/cinnamon-crisp-coffee-cake.md
           - Cinnamon-Streusel Coffee Cake: desserts/cake/cinnamon-streusel-coffee-cake.md
           - Classic Birthday Cake: desserts/cake/classic-birthday-cake.md
           - Cream Cheese Pound Cake: desserts/cake/cream-cheese-pound-cake.md
           - Dominique Ansel's Chocolate Cake: desserts/cake/dominique-ansel's-chocolate-cake.md
+          - Egg Yolk Lemon Cake: desserts/cake/egg-yolk-lemon-cake.md
           - Funfetti Cake: desserts/cake/funfetti-cake.md
           - Gâteau Basque: desserts/cake/gâteau-basque.md
           - Ina Garten's Coconut Cake: desserts/cake/ina-garten's-coconut-cake.md
-          - No-Bake Banana and Peanut Butter Caramel Icebox Cake: >-
+          - No-Bake Banana & Peanut Butter Caramel Icebox Cake: >-
               desserts/cake/no-bake-banana-and-peanut-butter-caramel-icebox-cake.md
           - Olive Oil Cake: desserts/cake/olive-oil-cake.md
           - Pineapple Upside Down Cake: desserts/cake/pineapple-upside-down-cake.md
+          - Prinsesstårta: desserts/cake/prinsesstårta.md
           - Reine be Saba (Queen of Sheba): desserts/cake/reine-be-saba-(queen-of-sheba).md
+          - Sour Cream Coffee Cake: desserts/cake/sour-cream-coffee-cake.md
           - Southern Velvet Cake: desserts/cake/southern-velvet-cake.md
+          - Strawberry Cake: desserts/cake/strawberry-cake.md
           - The Original Boston Cream Pie: desserts/cake/the-original-boston-cream-pie.md
           - The Perfect Chocolate Cake: desserts/cake/the-perfect-chocolate-cake.md
           - Tiramisù: desserts/cake/tiramisù.md
@@ -219,6 +240,7 @@ nav:
           - Corn & Hatch Chile Cupcakes with Honey Buttercream: >-
                 desserts/cupcakes/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md
           - Vanilla Cupcakes: desserts/cupcakes/vanilla-cupcakes.md
+          - White Chocolate Strawberry Cupcakes: desserts/cupcakes/white-chocolate-strawberry-cupcakes.md
       - Pies:
           - Banana Cream Pie: desserts/pie/banana-cream-pie.md
           - Banoffee Pie: desserts/pie/banoffee-pie.md
@@ -227,8 +249,11 @@ nav:
           - Buttermilk Chess Pie: desserts/pie/buttermilk-chess-pie.md
           - Buttermilk Pie: desserts/pie/buttermilk-pie.md
           - Chess Pie: desserts/pie/chess-pie.md
+          - His Favorite Butterscotch Pie: desserts/pie/his-favorite-butterscotch-pie.md
+          - Key Lime Pie: desserts/pie/key-lime-pie.md
           - Lemon Pie: desserts/pie/lemon-pie.md
           - Mini Apple Pies: desserts/pie/mini-apple-pies.md
+          - Peanut Butter Cream Pie: desserts/pie/peanut-butter-cream-pie.md
           - Shoofly Pie: desserts/pie/shoofly-pie.md
           - Spring Fruit Tart Pie: desserts/pie/spring-fruit-tart-pie.md
           - Tart Cherry Pie: desserts/pie/tart-cherry-pie.md
@@ -238,32 +263,40 @@ nav:
               desserts/pie/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md
       - Tarts:
           - Strawberry Tart: desserts/tarts/strawberry-tart.md
-          - Cranberry Curd Tart with Almond Crust: desserts/cranberry-curd-tart-with-almond-crust.md
+          - Cranberry Curd Tart with Almond Crust: desserts/tarts/cranberry-curd-tart-with-almond-crust.md
+          - French Fruit Tart: desserts/tarts/french-fruit-tart.md
       - 4 Ingredient Chocolate Mousse: desserts/4-ingredient-chocolate-mousse.md
       - Banana Pudding: desserts/banana-pudding.md
       - Brandy Snaps: desserts/brandy-snaps.md
       - Buckeyes: desserts/buckeyes.md
       - Cannoli: desserts/cannoli.md
       - Choco Taco: desserts/choco-taco.md
+      - Chocolate Mousse: desserts/chocolate-mousse.md
       - Chocolate Soufflé: desserts/chocolate-soufflé.md
       - Chocolate Whoopie Pies with Vanilla Buttercream Filling: >-
             desserts/chocolate-whoopie-pies-with-vanilla-buttercream-filling.md
       - Classic Crème Brûlée: desserts/classic-crème-brûlée.md
       - Classic Fudge: desserts/classic-fudge.md
+      - Coconut Macaroons: desserts/coconut-macaroons.md
       - Crème Brûlée: desserts/crème-brûlée.md
       - Crêpes Suzette: desserts/crêpes-suzette.md
       - Disney's Churros: desserts/disney's-churros.md
       - Disney's Frozen Pineapple Treat: desserts/disney's-frozen-pineapple-treat.md
       - English Toffee: desserts/english-toffee.md
-      - French Fruit Tart: desserts/french-fruit-tart.md
+      - Gordon Ramsay's Chocolate Soufflé: desserts/gordon-ramsay's-chocolate-soufflé.md
       - Grandma Kleins Chocolate Caramels: desserts/grandma-kleins-chocolate-caramels.md
       - Gulab Jambu: desserts/gulab-jambu.md
+      - Ice Cream: desserts/ice-cream.md
       - Ina Garten's Apple Crisp: desserts/ina-garten's-apple-crisp.md
+      - Lemony Blueberry Sorbet: desserts/lemony-blueberry-sorbet.md
+      - Martha Stewarts New York-Style Cheesecake: desserts/martha-stewarts-new-york-style-cheesecake.md
       - Mamie Eisenhower's Fudge: desserts/mamie-eisenhower's-fudge.md
       - Melomakarona: desserts/melomakarona.md
       - Millefeuille: desserts/millefeuille.md
       - Montélimar Nougat: desserts/montélimar-nougat.md
+      - New Orleans Pralines: desserts/new-orleans-pralines.md
       - New York-Style Cheesecake: desserts/new-york-style-cheesecake.md
+      - Old-Fashioned Rice Pudding: desserts/old-fashioned-rice-pudding.md
       - Peanut Brittle: desserts/peanut-brittle.md
       - Peanut Butter Cups: desserts/peanut-butter-cups.md
       - Pear Tarte Tatin: desserts/pear-tarte-tatin.md
@@ -275,6 +308,7 @@ nav:
       - Strawberry Shortcakes: desserts/strawberry-shortcakes.md
       - Swiss Roll: desserts/swiss-roll.md
       - Tiramisù: desserts/tiramisù.md
+      - Vanilla Bean Ice Cream: desserts/vanilla-bean-ice-cream.md
       - Vanilla Pudding: desserts/vanilla-pudding.md
       - Vegan Chocolate Pudding with Cinnamon & Chile: desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md
   - Dutch:
@@ -331,6 +365,14 @@ nav:
       - Nasi Goreng: indonesian/nasi-goreng.md
       - Wontons: indonesian/wontons.md
   - Ingredients:
+      - Butter:
+          - 3-Ingredient Garlic Butter: ingredients/butter/3-ingredient-garlic-butter.md
+          - Brown Butter with Sage: ingredients/butter/brown-butter-with-sage.md
+          - Butter: ingredients/butter/butter.md
+          - Clarified Butter: ingredients/butter/clarified-butter.md
+          - Garlic-Parsley Basting Butter: ingredients/butter/garlic-parsley-basting-butter.md
+          - Ginger-Miso Basting Butter: ingredients/butter/ginger-miso-basting-butter.md
+          - Spreadable Butter: ingredients/butter/spreadable-butter.md
       - Caramel:
           - Dry Caramel: ingredients/caramel/dry-caramel.md
           - Hard Caramel: ingredients/caramel/hard-caramel.md
@@ -357,8 +399,10 @@ nav:
           - Mom's Buttercream Frosting: ingredients/frosting/mom's-buttercream-frosting.md
           - Peanut Butter Frosting: ingredients/frosting/peanut-butter-frosting.md
           - Peppermint Buttercream Frosting: ingredients/frosting/peppermint-buttercream-frosting.md
+          - Sour Cream Topping: ingredients/frosting/sour-cream-topping.md
           - Swiss Buttercream: ingredients/frosting/swiss-buttercream.md
           - Vegan Strawberry Frosting: ingredients/frosting/vegan-strawberry-frosting.md
+          - White Chocolate Frosting: ingredients/frosting/white-chocolate-frosting.md
       - Meringue:
           - French Meringue: ingredients/meringue/french-meringue.md
           - Italian Meringue: ingredients/meringue/italian-meringue.md
@@ -370,6 +414,7 @@ nav:
           - Deluxe Butter Pastry: ingredients/pastry-dough/deluxe-butter-pastry.md
           - Dominique Ansel's Pâte à Choux: ingredients/pastry-dough/dominique-ansel's-pâte-à-choux.md
           - Empanada Pastry: ingredients/pastry-dough/empanada-pastry.md
+          - Filo: ingredients/pastry-dough/filo.md
           - Hot Water Crust: ingredients/pastry-dough/hot-water-crust.md
           - Pat-in-the-Pan Butter: ingredients/pastry-dough/pat-in-the-pan-butter-dough.md
           - Pat-in-the-Pan Shortbread: ingredients/pastry-dough/pat-in-the-pan-shortbread-dough.md
@@ -383,40 +428,63 @@ nav:
           - Fruit Glaze (Nappage): ingredients/post-baking-glazes/fruit-glaze-(nappage).md
           - Lemon Glaze: ingredients/post-baking-glazes/lemon-glaze.md
           - Milk Glaze: ingredients/post-baking-glazes/milk-glaze.md
-      - 3-Ingredient Garlic Butter: ingredients/3-ingredient-garlic-butter.md
+          - Royal Icing: ingredients/post-baking-glazes/royal-icing.md
+      - Seasonings:
+          - Celery Salt: ingredients/seasonings/celery-salt.md
+          - Cinnamon Sugar: ingredients/seasonings/cinnamon-sugar.md
+          - Herbes de Provence: ingredients/seasonings/herbes-de-provence.md
+          - Italian Seasoning: ingredients/seasonings/italian-seasoning.md
+          - Taco Seasoning: ingredients/seasonings/taco-seasoning.md
+          - Vegan Chicken-Less Seasoning Salt: ingredients/seasonings/vegan-chicken-less-seasoning-salt.md
+      - Sponge:
+          - Angel Food Cake: ingredients/sponge/angel-food-cake.md
+          - Chiffon Sponge: ingredients/sponge/chiffon-sponge.md
+          - French Sponge Cake (Biscuit): ingredients/sponge/french-sponge-cake-(biscuit).md
+          - Genoise Sponge: ingredients/sponge/genoise-sponge.md
+      - Tofu:
+          - Preparation: ingredients/tofu/preparation.md
+          - Air Fryer Tofu: ingredients/tofu/air-fryer-tofu.md
+          - Baked Sriracha Tofu: ingredients/tofu/baked-sriracha-tofu.md
+          - Crispy Baked Peanut Tofu: ingredients/tofu/crispy-baked-peanut-tofu.md
+          - Crispy Baked Tofu Nuggets: ingredients/tofu/crispy-baked-tofu-nuggets.md
+          - Crispy Baked Tofu with Italian Herbs: ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md
+          - Orange Honey Tofu: ingredients/tofu/orange-honey-tofu.md
+          - Pan-Fried Tofu: ingredients/tofu/pan-fried-tofu.md
       - Almond Flour: ingredients/almond-flour.md
       - Aquafaba: ingredients/aquafaba.md
+      - Beurre Manié: ingredients/beurre-manié.md
       - Bisquick: ingredients/bisquick.md
       - Blanched Almonds: ingredients/blanched-almonds.md
       - Blueberry Syrup for Pancakes: ingredients/blueberry-syrup-for-pancakes.md
       - Bouquet Garni: ingredients/bouquet-garni.md
-      - Brown Butter with Sage: ingredients/brown-butter-with-sage.md
+      - Breadcrumbs: ingredients/breadcrumbs.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Buttermilk: ingredients/buttermilk.md
       - Candied Orange Peel: ingredients/candied-orange-peel.md
-      - Celery Salt: ingredients/celery-salt.md
+      - Caramelized Onions: ingredients/caramelized-onions.md
+      - Cashew Cream: ingredients/cashew-cream.md
       - Chili Paste: ingredients/chili-paste.md
-      - Cinnamon Sugar: ingredients/cinnamon-sugar.md
-      - Clarified Butter: ingredients/clarified-butter.md
       - Confectioners' Sugar: ingredients/confectioners-sugar.md
       - Crème Fraîche: ingredients/crème-fraîche.md
+      - Croutons: ingredients/croutons.md
       - Crumb Crust: ingredients/crumb-crust.md
       - Date Paste: ingredients/date-paste.md
       - Dry Roasted Peanuts: ingredients/dry-roasted-peanuts.md
+      - Dulce de Leche: ingredients/dulce-de-leche.md
       - Evaporated Milk: ingredients/evaporated-milk.md
       - Fajita Veggies: ingredients/fajita-veggies.md
       - Flavored Sugars: ingredients/flavored-sugars.md
-      - French Sponge Cake (Biscuit): ingredients/french-sponge-cake-(biscuit).md
-      - Garlic-Parsley Basting Butter: ingredients/garlic-parsley-basting-butter.md
-      - Ginger-Miso Basting Butter: ingredients/ginger-miso-basting-butter.md
+      - Frico Crumble: ingredients/frico-crumble.md
       - Graham Crackers: ingredients/graham-crackers.md
       - Grated Vegetable Shortening: ingredients/grated-vegetable-shortening.md
-      - Herbes de Provence: ingredients/herbes-de-provence.md
       - Honey Whipped Cream: ingredients/honey-whipped-cream.md
       - Ice Cream Cones: ingredients/ice-cream-cones.md
+      - Jean Pierre's Vegetable Stock: ingredients/jean-pierre's-vegetable-stock.md
       - Lemon Curd: ingredients/lemon-curd.md
       - Mirepoix: ingredients/mirepoix.md
       - Miso Nori Paste: ingredients/miso-nori-paste.md
+      - Nixtamal Nicoyan Corn Tortillas: ingredients/nixtamal-nicoyan-corn-tortillas.md
+      - Onion Pique: ingredients/onion-pique.md
       - Onion Soup Mix: ingredients/onion-soup-mix.md
       - Oreo Pie Crust: ingredients/oreo-pie-crust.md
       - Pasta: ingredients/pasta.md
@@ -425,23 +493,26 @@ nav:
       - Pickled Carrots & Daikon: ingredients/pickled-carrots-and-daikon.md
       - Pizza Dough: ingredients/pizza-dough.md
       - Pumpkin Purée: ingredients/pumpkin-purée.md
+      - Queso Fresco: ingredients/queso-fresco.md
+      - Quick Mexican-Style Chorizo: ingredients/quick-mexican-style-chorizo.md
       - Quick Strawberry Jam: ingredients/quick-strawberry-jam.md
       - Ranch Dressing Mix: ingredients/ranch-dressing-mix.md
       - Ricotta: ingredients/ricotta.md
       - Roasted Garlic: ingredients/roasted-garlic.md
       - Roasted Red Peppers: ingredients/roasted-red-peppers.md
       - Roux: ingredients/roux.md
-      - Royal Icing: ingredients/royal-icing.md
-      - Rum Syrup: ingredients/rum-syrup.md
       - Sauerkraut: ingredients/sauerkraut.md
+      - Scottish Oatmeal: ingredients/scottish-oatmeal.md
+      - Simple Syrup: ingredients/simple-syrup.md
       - Sourdough Starter: ingredients/sourdough-starter.md
       - Strawberry Purée: ingredients/strawberry-purée.md
       - Streusel Crumble: ingredients/streusel-crumble.md
+      - Sweetened Coconut Flakes: ingredients/sweetened-coconut-flakes.md
       - Sweetened Condensed Milk: ingredients/sweetened-condensed-milk.md
       - Sweetened Whipped Cream: ingredients/sweetened-whipped-cream.md
-      - Taco Seasoning: ingredients/taco-seasoning.md
       - Toasted Nuts: ingredients/toasted-nuts.md
       - Tomato Paste: ingredients/tomato-paste.md
+      - Vanilla Bean Cream: ingredients/vanilla-bean-cream.md
       - Vanilla Sugar: ingredients/vanilla-sugar.md
       - Vegan Marshmallows: ingredients/vegan-marshmallows.md
       - Vegan Parmesan: ingredients/vegan-parmesan.md
@@ -451,13 +522,16 @@ nav:
       - Baked Cream Cheese Spaghetti Casserole: italian/baked-cream-cheese-spaghetti-casserole.md
       - Caprese Risoni: italian/caprese-risoni.md
       - Classic Margherita Pizza: italian/classic-margherita-pizza.md
+      - Creamy Italian White Bean: italian/creamy-italian-white-bean.md
+      - Creamy Mushroom Pasta: italian/creamy-mushroom-pasta.md
       - Easiest Ever Macaroni & Cheese: italian/easiest-ever-macaroni-&-cheese.md
       - Eggplant Parm Meatballs: italian/eggplant-parm-meatballs.md
       - Eggplant Parmesan Pasta: italian/eggplant-parmesan-pasta.md
       - Eggplant Parmigiana: italian/eggplant-parmigiana.md
       - Ginger Sesame Vegan Meatballs: italian/ginger-sesame-vegan-meatballs.md
-      - Healthy Pasta with Pesto and Broccoli: italian/healthy-pasta-with-pesto-and-broccoli.md
-      - Light and Tender Potato Gnocchi with Sage Butter Sauce: >-
+      - Healthy Pasta with Pesto & Broccoli: italian/healthy-pasta-with-pesto-and-broccoli.md
+      - Lemon & Pea Alfredo: italian/lemon-and-pea-alfredo.md
+      - Light & Tender Potato Gnocchi with Sage Butter Sauce: >-
             italian/light-and-tender-potato-gnocchi-with-sage-butter-sauce.md
       - Jamie Oliver Ricotta Fritters: italian/jamie-oliver-ricotta-fritters.md
       - Macaroni & Cheese: italian/macaroni-&-cheese.md
@@ -465,12 +539,17 @@ nav:
       - Mezza Luna Lasagna: italian/mezza-luna-lasagna.md
       - Mushroom Risotto: italian/mushroom-risotto.md
       - Olive Garden Fettuccine Alfredo: italian/olive-garden-fettuccine-alfredo.md
+      - Pasta e Ceci (Pasta with Chickpeas): italian/pasta-e-ceci-(pasta-with-chickpeas).md
+      - Pasta Pomodoro: italian/pasta-pomodoro.md
       - Pasta with Burst Cherry Tomato Sauce: italian/pasta-with-burst-cherry-tomato-sauce.md
+      - Pea Pesto Pasta with Dun-Dried Tomatoes & Arugula: italian/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.md
+      - Penne Alla Vodka: italian/penne-alla-vodka.md
       - Potato Gnocchi: italian/potato-gnocchi.md
       - Risotto Milanese: italian/risotto-milanese.md
+      - Spaghetti Aglio E Olio: italian/spaghetti-aglio-e-olio.md
       - Spaghetti All'Assassina: italian/spaghetti-all'assassina.md
       - Spaghetti Alla Puttanesca: italian/spaghetti-alla-puttanesca.md
-      - Spinach and Ricotta Gnudi with Tomato Butter Sauce: >-
+      - Spinach & Ricotta Gnudi with Tomato Butter Sauce: >-
             italian/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.md
       - Spinach Lasagna: italian/spinach-lasagna.md
       - Summer Pesto Pasta: italian/summer-pesto-pasta.md
@@ -483,41 +562,49 @@ nav:
       - Caprese Sandwich: lunches/caprese-sandwich.md
       - Chickpea Sunflower Sandwich: lunches/chickpea-sunflower-sandwich.md
       - Cucumber Sandwich: lunches/cucumber-sandwich.md
+      - Egg Salad Sandwich: lunches/egg-salad-sandwich.md
+      - Green Goddess Caprese Melt: lunches/green-goddess-caprese-melt.md
       - Grilled Tomato Sandwich: lunches/grilled-tomato-sandwich.md
       - Open-Faced Cherry Tomato Ricotta Sandwich: lunches/open-faced-cherry-tomato-ricotta-sandwich.md
       - Perfect Chickpea Salad: lunches/perfect-chickpea-salad.md
       - Romesco Wrap: lunches/romesco-wrap.md
+      - Vegetarian Corn Dogs: lunches/vegetarian-corn-dogs.md
+      - Veggie Rainbow Wrap: lunches/veggie-rainbow-wrap.md
       - Watercress Egg Salad Tea Sandwich: lunches/watercress-egg-salad-tea-sandwich.md
   - Main:
       - Baked Sweet Potatoes With Chili Beans: main/baked-sweet-potatoes-with-chili-beans.md
+      - Cabbage & Sun-Dried Tomato Sauté: main/cabbage-and-sun-dried-tomato-sauté.md
       - Cowboy Quinoa Bake: main/cowboy-quinoa-bake.md
       - Crispy Chicken-less Sliders: main/crispy-chicken-less-sliders.md
       - Curry Chicken Pot Pie: main/curry-chicken-pot-pie.md
       - Fall Turkey Chili With Pumpkin: main/fall-turkey-chili-with-pumpkin.md
+      - Fresh Fava Beans with Mint & Scallions: main/fresh-fava-beans-with-mint-and-scallions.md
       - Peruvian Burrito Bowl: main/peruvian-burrito-bowl.md
       - Potato Broccoli Casserole: main/potato-broccoli-casserole.md
       - Rice with Corned Beef: main/rice-with-corned-beef.md
       - Spicy Pumpkin Curry Pot Pie: main/spicy-pumpkin-curry-pot-pie.md
+      - Vegan Salisbury Steak: main/vegan-salisbury-steak.md
   - Mediterranean:
-      - Baked Feta with Chickpeas and Kale: mediterranean/baked-feta-with-chickpeas-and-kale.md
+      - Baked Feta with Chickpeas & Kale: mediterranean/baked-feta-with-chickpeas-and-kale.md
       - Balsamic Lentil Sauté: mediterranean/balsamic-lentil-sauté.md
       - Cook's Illustrated Horiatiki Salata (Greek Salad): >-
             mediterranean/cook's-illustrated-horiatiki-salata-(greek-salad).md
       - Gordon Ramsay's Spicy Sausage Rice: mediterranean/gordon-ramsay's-spicy-sausage-rice.md
       - Greek Orzo Stuffed Red Peppers: mediterranean/greek-orzo-stuffed-red-peppers.md
-      - Harissa Olive Oil-Braised Chickpeas and Fennel: mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md
+      - Harissa Olive Oil-Braised Chickpeas & Fennel: mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md
       - Jeanie's Falafel: mediterranean/jeanie's-falafel.md
       - Lemon Garlic Orzo with Roasted Veggies: mediterranean/lemon-garlic-orzo-with-roasted-veggies.md
       - Mediterranean-Inspired Orzo Pasta Salad: mediterranean/mediterranean-inspired-orzo-pasta-salad.md
       - Mediterranean Pasta Salad: mediterranean/mediterranean-pasta-salad.md
       - Saucy Moroccan-Spiced Lentils: mediterranean/saucy-moroccan-spiced-lentils.md
-      - Scrambled Chickpea and Spinach Pitas: mediterranean/scrambled-chickpea-and-spinach-pitas.md
-      - Sprouted Kitchen Spring Noodles Artichokes and Lemons: >-
+      - Scrambled Chickpea & Spinach Pitas: mediterranean/scrambled-chickpea-and-spinach-pitas.md
+      - Sprouted Kitchen Spring Noodles Artichokes & Lemons: >-
             mediterranean/sprouted-kitchen-spring-noodles-artichokes-and-lemons.md
       - Tomato Baked White Beans with Lemon Parsley Oil: >-
             mediterranean/tomato-baked-white-beans-with-lemon-parsley-oil.md
       - Vegetarian Paella: mediterranean/vegetarian-paella.md
   - Mexican:
+      - Baked Black Bean Taquitos: mexican/baked-black-bean-taquitos.md
       - Black Bean Burritos: mexican/black-bean-burritos.md
       - Black Bean Burrito Bake: mexican/black-bean-burrito-bake.md
       - Butternut Squash Tostadas: mexican/butternut-squash-tostadas.md
@@ -530,7 +617,8 @@ nav:
       - Potato Tacos: mexican/potato-tacos.md
       - Roasted Cauliflower Tacos with Chipotle Romesco: mexican/roasted-cauliflower-tacos-with-chipotle-romesco.md
       - Slow Cooker Black Bean Chili: mexican/slow-cooker-black-bean-chili.md
-      - Sweet and Spicy Corncakes: mexican/sweet-and-spicy-corncakes.md
+      - Sweet & Spicy Corncakes: mexican/sweet-and-spicy-corncakes.md
+      - Sweet Potato Black Bean Enchiladas: mexican/sweet-potato-black-bean-enchiladas.md
       - Taco Bake: mexican/taco-bake.md
       - Taquito-lada Casserole: mexican/taquito-lada-casserole.md
       - Tostadas with Refried Black Beans & Pickled Cabbage & Onion: >-
@@ -547,12 +635,23 @@ nav:
           - Hollandaise: sauces-and-dressings/5-mother-sauces/hollandaise.md
           - Tomate: sauces-and-dressings/5-mother-sauces/tomate.md
           - Velouté: sauces-and-dressings/5-mother-sauces/velouté.md
+      - Pesto:
+          - Balsamic Pesto: sauces-and-dressings/pesto/balsamic-pesto.md
+          - Basic Pesto: sauces-and-dressings/pesto/basic-pesto.md
+          - Broccoli Pesto: sauces-and-dressings/pesto/broccoli-pesto.md
+          - Cook's Country Perfect Pesto: sauces-and-dressings/pesto/cook's-country-perfect-pesto.md
+          - Jalapeño Lime Pesto: sauces-and-dressings/pesto/jalapeño-lime-pesto.md
+          - Joy of Cooking Pesto: sauces-and-dressings/pesto/joy-of-cooking-pesto.md
+          - Lemon Arugula Pesto: sauces-and-dressings/pesto/lemon-arugula-pesto.md
+          - Lemon-Pepper Parsley Pesto: sauces-and-dressings/pesto/lemon-pepper-parsley-pesto.md
+          - Mascarpone Pesto: sauces-and-dressings/pesto/mascarpone-pesto.md
+          - Sun-Dried Tomato Pesto: sauces-and-dressings/pesto/sun-dried-tomato-pesto.md
       - Aaron Combs' Salsa: sauces-and-dressings/aaron-combs'-salsa.md
       - Adobo Sauce: sauces-and-dressings/adobo-sauce.md
       - A Very Popular BBQ Sauce: sauces-and-dressings/a-very-popular-bbq-sauce.md
       - Aji Verde: sauces-and-dressings/aji-verde.md
       - Alfredo Sauce: sauces-and-dressings/alfredo-sauce.md
-      - Asian Sweet and Sour Sauce: sauces-and-dressings/asian-sweet-and-sour-sauce.md
+      - Asian Sweet & Sour Sauce: sauces-and-dressings/asian-sweet-and-sour-sauce.md
       - Balsamic Onion Jam: sauces-and-dressings/balsamic-onion-jam.md
       - Beet Hummus: sauces-and-dressings/beet-hummus.md
       - Benedictine Sandwich Spread: sauces-and-dressings/benedictine-sandwich-spread.md
@@ -560,17 +659,21 @@ nav:
       - Buffalo Sauce: sauces-and-dressings/buffalo-sauce.md
       - Carrot-Tamarind Chutney: sauces-and-dressings/carrot-tamarind-chutney.md
       - Cashew Chipotle Ranch Dressing: sauces-and-dressings/cashew-chipotle-ranch-dressing.md
+      - Chilero Hot Sauce: sauces-and-dressings/chilero-hot-sauce.md
       - Chimichurri: sauces-and-dressings/chimichurri.md
+      - Chipotle Mayonnaise: sauces-and-dressings/chipotle-mayonnaise.md
       - Chipotle Ranch Dressing: sauces-and-dressings/chipotle-ranch-dressing.md
       - Cilantro Dressing: sauces-and-dressings/cilantro-dressing.md
       - Claire's Five-Onion Dip: sauces-and-dressings/claire's-five-onion-dip.md
       - Classic Mustard: sauces-and-dressings/classic-mustard.md
       - Classic Tartar Sauce: sauces-and-dressings/classic-tartar-sauce.md
-      - Cook's Country Perfect Pesto: sauces-and-dressings/cook's-country-perfect-pesto.md
       - Crème Anglaise: sauces-and-dressings/crème-anglaise.md
       - Dijon Mustard: sauces-and-dressings/dijon-mustard.md
+      - Enchilada Sauce: sauces-and-dressings/enchilada-sauce.md
       - French Dressing: sauces-and-dressings/french-dressing.md
       - Garlic Aioli: sauces-and-dressings/garlic-aioli.md
+      - Green Goddess Dressing: sauces-and-dressings/green-goddess-dressing.md
+      - Hearts of Palm Ceviche: sauces-and-dressings/hearts-of-palm-ceviche.md
       - Homemade Ranch Dip: sauces-and-dressings/homemade-ranch-dip.md
       - Honey Mustard Dipping Sauce: sauces-and-dressings/honey-mustard-dipping-sauce.md
       - Honey Mustard Vinaigrette: sauces-and-dressings/honey-mustard-vinaigrette.md
@@ -578,12 +681,16 @@ nav:
       - Hummus: sauces-and-dressings/hummus.md
       - Hummus-Orange Juice Dressing: sauces-and-dressings/hummus-orange-juice-dressing.md
       - Ina Garten's Perfect Vinaigrette: sauces-and-dressings/ina-garten's-perfect-vinaigrette.md
+      - Italian Vinaigrette: sauces-and-dressings/italian-vinaigrette.md
       - Jane's 3, 2, 1 Salad Dressing: sauces-and-dressings/jane's-3,-2,-1-salad-dressing.md
-      - Joy of Cooking Pesto: sauces-and-dressings/joy-of-cooking-pesto.md
-      - Lemon-Pepper Parsley Pesto: sauces-and-dressings/lemon-pepper-parsley-pesto.md
+      - Lebanese Garlic Sauce (Toum): sauces-and-dressings/lebanese-garlic-sauce-(toum).md
       - Marinara Sauce: sauces-and-dressings/marinara-sauce.md
       - Mayonnaise: sauces-and-dressings/mayonnaise.md
       - Mexicrema Dressing: sauces-and-dressings/mexicrema-dressing.md
+      - Miso Glaze: sauces-and-dressings/miso-glaze.md
+      - Mixed Berry Coulis: sauces-and-dressings/mixed-berry-coulis.md
+      - Mushroom Gravy: sauces-and-dressings/mushroom-gravy.md
+      - Mushroom Sauce: sauces-and-dressings/mushroom-sauce.md
       - New York-Style Pizza Sauce: sauces-and-dressings/new-york-style-pizza-sauce.md
       - New York Times' Classic Marinara Sauce: sauces-and-dressings/new-york-times'-classic-marinara-sauce.md
       - Orange Juice-Lime Salad Dressing: sauces-and-dressings/orange-juice-lime-salad-dressing.md
@@ -593,6 +700,7 @@ nav:
       - Ranch Dip: sauces-and-dressings/ranch-dip.md
       - Ranch Dressing: sauces-and-dressings/ranch-dressing.md
       - Rip's Salad Dressing: sauces-and-dressings/rip's-salad-dressing.md
+      - Roasted Red Pepper Coulis: sauces-and-dressings/roasted-red-pepper-coulis.md
       - Roasted Red Pepper Sauce: sauces-and-dressings/roasted-red-pepper-sauce.md
       - Salsa Fresca (Pico de Gallo): sauces-and-dressings/salsa-fresca-(pico-de-gallo).md
       - Salted Caramel Sauce: sauces-and-dressings/salted-caramel-sauce.md
@@ -603,30 +711,37 @@ nav:
       - Spaghetti Sauce: sauces-and-dressings/spaghetti-sauce.md
       - Special Sauce for Burgers: sauces-and-dressings/special-sauce-for-burgers.md
       - Spinach Dip: sauces-and-dressings/spinach-dip.md
-      - Sun-Dried Tomato Pesto: sauces-and-dressings/sun-dried-tomato-pesto.md
       - Sweet-and-Spicy Ketchup: sauces-and-dressings/sweet-and-spicy-ketchup.md
       - Sweet-and-Spicy Corn Salsa: sauces-and-dressings/sweet-and-spicy-corn-salsa.md
       - Tahini: sauces-and-dressings/tahini.md
       - The Soyfoods Council Chimichurri: sauces-and-dressings/the-soyfoods-council-chimichurri.md
+      - Tofu Mayonnaise: sauces-and-dressings/tofu-mayonnaise.md
       - Tomato Bruschetta: sauces-and-dressings/tomato-bruschetta.md
+      - Tomato Ragu: sauces-and-dressings/tomato-ragu.md
       - Tzatziki Sauce: sauces-and-dressings/tzatziki-sauce.md
+      - Vegan Caesar Dressing: sauces-and-dressings/vegan-caesar-dressing.md
       - Vegan Chipotle Ranch Dressing: sauces-and-dressings/vegan-chipotle-ranch-dressing.md
       - Vegan Ranch Dressing: sauces-and-dressings/vegan-ranch-dressing.md
+      - Vegan Sour Cream: sauces-and-dressings/vegan-sour-cream.md
       - Vegetarian Sausage Gravy: sauces-and-dressings/vegetarian-sausage-gravy.md
       - Vinaigrette: sauces-and-dressings/vinaigrette.md
       - Whipped Almond Ricotta: sauces-and-dressings/whipped-almond-ricotta.md
-      - White Mac and Cheese Sauce: sauces-and-dressings/white-mac-and-cheese-sauce.md
+      - White Mac & Cheese Sauce: sauces-and-dressings/white-mac-and-cheese-sauce.md
   - Sides:
       - America's Test Kitchen Best Baked Potatoes: sides/america's-test-kitchen-best-baked-potatoes.md
       - America's Test Kitchen Best Baked Sweet Potatoes: sides/america's-test-kitchen-best-baked-sweet-potatoes.md
       - Amish Potato Salad: sides/amish-potato-salad.md
       - Asparagus Purée: sides/asparagus-purée.md
+      - Balsamic-Dressed Cucumber with Olives: sides/balsamic-dressed-cucumber-with-olives.md
+      - Banana Chips: sides/banana-chips.md
+      - Basmati Pilaf: sides/basmati-pilaf.md
       - Beach Day Chickpea Salad: sides/beach-day-chickpea-salad.md
-      - Braised Asparagus with Lemon and Chives: sides/braised-asparagus-with-lemon-and-chives.md
+      - Braised Asparagus with Lemon & Chives: sides/braised-asparagus-with-lemon-and-chives.md
       - Brazilian Rice: sides/brazilian-rice.md
-      - Brown Sugar and Spice Roasted Carrots: sides/brown-sugar-and-spice-roasted-carrots.md
+      - Brown Sugar & Spice Roasted Carrots: sides/brown-sugar-and-spice-roasted-carrots.md
       - Brussels Sprouts With Warm Honey Glaze: sides/brussels-sprouts-with-warm-honey-glaze.md
       - Butter-Basted Grilled Mushrooms: sides/butter-basted-grilled-mushrooms.md
+      - Caprese Flatbread: sides/caprese-flatbread.md
       - Carrot Cake Protein Bites: sides/carrot-cake-protein-bites.md
       - Carrot Slaw: sides/carrot-slaw.md
       - Cauliflower Purée with Thyme: sides/cauliflower-purée-with-thyme.md
@@ -636,30 +751,48 @@ nav:
       - Club Crackers: sides/club-crackers.md
       - Corn Tortillas: sides/corn-tortillas.md
       - Couscous Feta Salad: sides/couscous-feta-salad.md
+      - Creamed Spinach: sides/creamed-spinach.md
       - Crispy Herbes de Provence Potatoes: sides/crispy-herbes-de-provence-potatoes.md
       - Deviled Eggs: sides/deviled-eggs.md
-      - Dried Fruit and Nut Mix: sides/dried-fruit-and-nut-mix.md
+      - Dried Fruit & Nut Mix: sides/dried-fruit-and-nut-mix.md
       - Eggless Egg Salad: sides/eggless-egg-salad.md
       - Falafel Scones with Harissa Yogurt: sides/falafel-scones-with-harissa-yogurt.md
+      - Fennel & Potato Cassola: sides/fennel-and-potato-cassola.md
       - French Potato Salad: sides/french-potato-salad.md
+      - Fried Green Plantains: sides/fried-green-plantains.md
+      - Fried Green Tomatoes: sides/fried-green-tomatoes.md
+      - Funeral Potatoes: sides/funeral-potatoes.md
+      - Garlic & Lemon Roasted Romanesco Cauliflower: sides/garlic-and-lemon-roasted-romanesco-cauliflower.md
+      - Garlic Mushrooms: sides/garlic-mushrooms.md
       - Garlic Rice: sides/garlic-rice.md
       - Golden French Mashed Potatoes: sides/golden-french-mashed-potatoes.md
       - Granola Bars: sides/granola-bars.md
+      - Greek Style Lemon Roasted Potatoes: sides/greek-style-lemon-roasted-potatoes.md
       - Grilled Mushrooms with Rosemary-Lemon Basting Butter: >-
             sides/grilled-mushrooms-with-rosemary-lemon-basting-butter.md
       - Grilled Sweet Potatoes with Chimichurri: sides/grilled-sweet-potatoes-with-chimichurri.md
       - Hasselback Roasted Zucchini: sides/hasselback-roasted-zucchini.md
+      - Honey & Walnut Baked Brie: sides/honey-and-walnut-baked-brie.md
       - Honey Glazed Carrots & Parsnips: sides/honey-glazed-carrots-and-parsnips.md
+      - Hummus with Pesto: sides/hummus-with-pesto.md
+      - Ina Garten's Parmesan Roasted Broccoli: sides/ina-garten's-parmesan-roasted-broccoli.md
       - Ina Garten's Potato Salad: sides/ina-garten's-potato-salad.md
+      - Internet-Famous Crispy Potatoes: sides/internet-famous-crispy-potatoes.md
       - Jalapeño Corn Pudding: sides/jalapeño-corn-pudding.md
       - Jojo's Biscuits: sides/jojo's-biscuits.md
       - Josh Elkin's Mushroom Toast: sides/josh-elkin's-mushroom-toast.md
+      - Julia Child's Garlic Mashed Potatoes: sides/julia-child's-garlic-mashed-potatoes.md
+      - Kale Chips: sides/kale-chips.md
+      - Kettle Corn: sides/kettle-corn.md
       - Kickstarter Garlic Mushrooms: sides/kickstarter-garlic-mushrooms.md
       - Kickstarter Lemony Roasted Cauliflower: sides/kickstarter-lemony-roasted-cauliflower.md
       - Laugenbrezeln (German Lye Pretzels): sides/laugenbrezeln-(german-lye-pretzels).md
       - Macaroni Salad: sides/macaroni-salad.md
+      - Maple Roasted Brussels Sprouts with Pumpkin Seeds: sides/maple-roasted-brussels-sprouts-with-pumpkin-seeds.md
       - Mashed Sweet Potatoes with Caramelized Shallots: sides/mashed-sweet-potatoes-with-caramelized-shallots.md
       - Mexican Coleslaw: sides/mexican-coleslaw.md
+      - Miso-Glazed Bok Choy: sides/miso-glazed-bok-choy.md
+      - Miso-Glazed Carrots: sides/miso-glazed-carrots.md
       - No Bake Sunshine Energy Bites: sides/no-bake-sunshine-energy-bites.md
       - Parsnip Purée: sides/parsnip-purée.md
       - Pasta Salad: sides/pasta-salad.md
@@ -669,11 +802,14 @@ nav:
       - Pickled Red Onions: sides/pickled-red-onions.md
       - Pommes Dauphine: sides/pommes-dauphine.md
       - Pommes Mont D'or: sides/pommes-mont-d'or.md
+      - Potato Au Gratin: sides/potato-au-gratin.md
       - Potato Salad: sides/potato-salad.md
       - Red Cabbage Salad: sides/red-cabbage-salad.md
       - Ritz Crackers: sides/ritz-crackers.md
+      - Roasted Fennel with Garlic & Thyme: sides/roasted-fennel-with-garlic-and-thyme.md
       - Rosemary Roasted Cashews: sides/rosemary-roasted-cashews.md
       - Sautéed Mushrooms: sides/sautéed-mushrooms.md
+      - Scottish Oatcakes: sides/scottish-oatcakes.md
       - Skillet-Steamed Haricots Verts: sides/skillet-steamed-haricots-verts.md
       - Spicy Garlic Edamame: sides/spicy-garlic-edamame.md
       - Steamed Broccoli with Vinaigrette: sides/steamed-broccoli-with-vinaigrette.md
@@ -681,21 +817,24 @@ nav:
       - The Best Crispy Roast Potatoes Ever Recipe: sides/the-best-crispy-roast-potatoes-ever-recipe.md
       - Three-Bean Salad: sides/three-bean-salad.md
       - Tomato Feta Pasta Salad: sides/tomato-feta-pasta-salad.md
+      - Tomato Salad: sides/tomato-salad.md
+      - Unsweetened Applesauce: sides/unsweetened-applesauce.md
   - Soups & Stews:
       - Baked Potato Soup: soups-and-stews/baked-potato-soup.md
-      - Black Bean and Butternut Soup: soups-and-stews/black-bean-and-butternut-soup.md
-      - Chickenless Sausage and Lentil Soup: soups-and-stews/chickenless-sausage-and-lentil-soup.md
+      - Black Bean & Butternut Soup: soups-and-stews/black-bean-and-butternut-soup.md
+      - Chickenless Sausage & Lentil Soup: soups-and-stews/chickenless-sausage-and-lentil-soup.md
       - Chili Colorado: soups-and-stews/chili-colorado.md
       - Chili Verde: soups-and-stews/chili-verde.md
       - Chipotle Corn Chowder: soups-and-stews/chipotle-corn-chowder.md
-      - Classic Broccoli Cheddar Soup: soups-and-stews/classic-broccoli-cheddar-soup.md
       - Cream of Mushroom: soups-and-stews/cream-of-mushroom.md
+      - Creamy Broccoli Bisque: soups-and-stews/creamy-broccoli-bisque.md
       - Creamy Roasted Carrot Soup: soups-and-stews/creamy-roasted-carrot-soup.md
       - Eggplant Stew: soups-and-stews/eggplant-stew.md
       - French Onion Soup: soups-and-stews/french-onion-soup.md
       - Ikarian Longevity Stew: soups-and-stews/ikarian-longevity-stew.md
       - Lemony Lentil Soup: soups-and-stews/lemony-lentil-soup.md
       - Mexican Lentil Soup: soups-and-stews/mexican-lentil-soup.md
+      - Minestrone Soup: soups-and-stews/minestrone-soup.md
       - Plant-Based Chili: soups-and-stews/plant-based-chili.md
       - Potato Soup: soups-and-stews/potato-soup.md
       - Roasted Sweet Garlic & Almond Soup: soups-and-stews/roasted-sweet-garlic-&-almond-soup.md
@@ -710,6 +849,9 @@ nav:
       - Equivalents & Substitutes: reference/equivalents-and-substitutes.md
       - Measuring: reference/measuring.md
       - Pressure Cooker: reference/pressure-cooker.md
+      - Seasons: reference/seasons.md
+      - Temperatures: reference/temperatures.md
+      - Tips: reference/tips.md
       - Development: reference/development.md
   - Cooklang Files: "https://github.com/jhaydter/recipes/tree/main/cook"
   - Tags: tags.md
