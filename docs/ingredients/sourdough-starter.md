@@ -13,8 +13,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4.5 cups whole-wheat flour
-- :ear_of_rice: 5 cups all-purpose flour
+- :ear_of_rice: 4.5 cups (702 g) whole-wheat flour
+- :ear_of_rice: 5 cups (709 g) all-purpose flour
 
 ## :cooking: Cookware
 
@@ -25,8 +25,8 @@ tags:
 
 ### Days 1-3
 
-Combine whole-wheat flour and all-purpose flour and keep in container as feed. Mix 1 cup of flour mixture and
-2/3 cup (5-1/3 oz) of room temperature water in a 1 liter mason jar. Cover and let set at room temperature for 48 to 72
+Combine whole-wheat flour and all-purpose flour and keep in container as feed. Mix 1 cup (142 g) of flour mixture and
+2/3 cup (151 g) of room temperature water in a 1 liter mason jar. Cover and let set at room temperature for 48 to 72
 hours.
 
 ### Days 4-10/14

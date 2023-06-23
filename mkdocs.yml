@@ -59,11 +59,14 @@ nav:
       - Spinach Banana Smoothie: beverages/spinach-banana-smoothie.md
       - Strawberry Whip: beverages/strawberry-whip.md
   - Breads:
+      - Almost No-Knead Sourdough Bread: breads/almost-no-knead-sourdough-bread.md
+      - Baguettes: breads/baguettes.md
       - Basic Sweet Babka: breads/basic-sweet-babka.md
       - Best-Ever Banana Bread: breads/best-ever-banana-bread.md
       - Bread Machine French Bread: breads/bread-machine-french-bread.md
       - Brioche: breads/brioche.md
       - Chocolate Chip Peanut Butter Banana Bread: breads/chocolate-chip-peanut-butter-banana-bread.md
+      - Ciabatta: breads/ciabatta.md
       - Cinnamon Streusel Bread: breads/cinnamon-streusel-bread.md
       - Cranberry Orange Bread: breads/cranberry-orange-bread.md
       - Croissants: breads/croissants.md
@@ -75,11 +78,14 @@ nav:
       - Lemon Bread: breads/lemon-bread.md
       - Ligurian Focaccia: breads/ligurian-focaccia.md
       - Pain Aux Raisins: breads/pain-aux-raisins.md
+      - Pain de Campagne (Country Bread): breads/pain-de-campagne-(country-bread).md
       - Parmesan Pull-Apart Bread: breads/parmesan-pull-apart-bread.md
       - Pumpkin Bread: breads/pumpkin-bread.md
       - Texas Roadhouse Rolls: breads/texas-roadhouse-rolls.md
       - The Best Cornbread: breads/the-best-cornbread.md
       - The Best Pumpkin Bread: breads/the-best-pumpkin-bread.md
+      - The Bread Code Sourdough: breads/the-bread-code-sourdough.md
+      - The Easiest Loaf of Bread You'll Ever Bake: breads/the-easiest-loaf-of-bread-you'll-ever-bake.md
   - Breakfast:
       - 1-Bowl Carrot Apple Muffins: breakfast/1-bowl-carrot-apple-muffins.md
       - Apple Pie Overnight Oats: breakfast/apple-pie-overnight-oats.md
@@ -225,6 +231,7 @@ nav:
           - Pineapple Upside Down Cake: desserts/cake/pineapple-upside-down-cake.md
           - Prinsesstårta: desserts/cake/prinsesstårta.md
           - Reine be Saba (Queen of Sheba): desserts/cake/reine-be-saba-(queen-of-sheba).md
+          - Smash Cake: desserts/cake/smash-cake.md
           - Sour Cream Coffee Cake: desserts/cake/sour-cream-coffee-cake.md
           - Southern Velvet Cake: desserts/cake/southern-velvet-cake.md
           - Strawberry Cake: desserts/cake/strawberry-cake.md
@@ -558,6 +565,7 @@ nav:
   - Lunches:
       - Applied Grilled Cheese: lunches/applied-grilled-cheese.md
       - Bourbon Grilled Cheese: lunches/bourbon-grilled-cheese.md
+      - Broccoli Salad: lunches/broccoli-salad.md
       - Brussels Sprout Melts: lunches/brussels-sprout-melts.md
       - Caprese Sandwich: lunches/caprese-sandwich.md
       - Chickpea Sunflower Sandwich: lunches/chickpea-sunflower-sandwich.md
@@ -626,6 +634,7 @@ nav:
       - Vegetarian Tacos: mexican/vegetarian-tacos.md
   - Pressure Cooker:
       - Black Beans: pressurecooker/black-beans.md
+      - Brown Rice: pressurecooker/brown-rice.md
       - Chickpeas: pressurecooker/chickpeas.md
       - Refried Black Beans: pressurecooker/refried-black-beans.md
   - Sauces & Dressings:
@@ -656,6 +665,7 @@ nav:
       - Beet Hummus: sauces-and-dressings/beet-hummus.md
       - Benedictine Sandwich Spread: sauces-and-dressings/benedictine-sandwich-spread.md
       - Blue Cheese Herb Spread: sauces-and-dressings/blue-cheese-herb-spread.md
+      - Broccoli Salad Dressing: sauces-and-dressings/broccoli-salad-dressing.md
       - Buffalo Sauce: sauces-and-dressings/buffalo-sauce.md
       - Carrot-Tamarind Chutney: sauces-and-dressings/carrot-tamarind-chutney.md
       - Cashew Chipotle Ranch Dressing: sauces-and-dressings/cashew-chipotle-ranch-dressing.md
